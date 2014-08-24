@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name: Philippe Tring
+disqus_short_name: gnirt
 disqus_show_comment_count: true
 
 # Google Analytics
@@ -98,3 +98,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Tapir token
+tapir_token: 53c64856346c8f0200000001
