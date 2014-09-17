@@ -9,9 +9,11 @@
   <meta name="author" content="Philippe Tring">
 
   
-  <meta name="description" content="Blog Archive 2014 Liste Pour Une Balade en Vélo
-Aug 01 2014 posted in bike, united kingdom Jumping on My Bike and Rolling [En]
-Aug 01 2014 posted in &hellip;">
+  <meta name="description" content="Blog Archive 2014 Solitude
+Sep 17 2014 posted in united kingdom Github Workflow
+Sep 12 2014 Test2
+Sep 07 2014 Liste Pour Une Balade en Vélo
+Aug 01 &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -33,6 +35,39 @@ Aug 01 2014 posted in &hellip;">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
 
+<!-- Add for fancybox 7 september 2014 http://tritarget.org/blog/2012/05/07/integrating-photos-into-octopress-using-fancybox-and-plugin/ -->
+
+<!-- Load jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.noConflict(); // ender.js conflicts with jQuery
+</script>
+<!-- Load FancyBox -->
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" />
+<script src="/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<!-- Fix FancyBox style for OctoPress -->
+<style type="text/css">
+  .fancybox-wrap { position: fixed !important; }
+  .fancybox-opened {
+    -webkit-border-radius: 4px !important;
+       -moz-border-radius: 4px !important;
+            border-radius: 4px !important;
+  }
+  .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-color: transparent !important;
+    border: 0 !important;
+  }
+</style>
+
+<!-- Custom Scripts -->
+<script language="Javascript" type="text/javascript">
+// ender.js gobbles jQuery's ready event: Use ender.js $ instead
+$(document).ready(function() {
+jQuery(".fancybox").fancybox();
+});
+</script> 
+
+<!-- end of fancybox add -->
   
 
 </head>
@@ -80,6 +115,40 @@ Aug 01 2014 posted in &hellip;">
 
   
   <h2>2014</h2>
+
+<article>
+  
+<h1><a href="/blog/2014/09/17/solitude/">Solitude</a></h1>
+<time datetime="2014-09-17T12:28:51+02:00" pubdate><span class='month'>Sep</span> <span class='day'>17</span> <span class='year'>2014</span></time>
+
+<footer>
+  <span class="categories">posted in <a class='category' href='/blog/categories/united-kingdom/'>united kingdom</a></span>
+</footer>
+
+
+</article>
+
+
+
+<article>
+  
+<h1><a href="/blog/2014/09/12/github-workflow/">Github Workflow</a></h1>
+<time datetime="2014-09-12T11:47:17+02:00" pubdate><span class='month'>Sep</span> <span class='day'>12</span> <span class='year'>2014</span></time>
+
+
+</article>
+
+
+
+<article>
+  
+<h1><a href="/blog/2014/09/07/test2/">Test2</a></h1>
+<time datetime="2014-09-07T15:32:21+02:00" pubdate><span class='month'>Sep</span> <span class='day'>07</span> <span class='year'>2014</span></time>
+
+
+</article>
+
+
 
 <article>
   
@@ -201,23 +270,23 @@ Aug 01 2014 posted in &hellip;">
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/09/17/solitude/">Solitude</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/09/12/github-workflow/">Github Workflow</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/09/07/test2/">Test2</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/08/01/liste-pour-une-balade-en-velo/">Liste Pour Une Balade en Vélo</a>
       </li>
     
       <li class="post">
         <a href="/blog/2014/08/01/jumping-on-my-bike-and-rolling/">Jumping on My Bike and Rolling [En]</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/06/15/moment-de-danse-hors-du-temps/">Moment De Danse Hors Du Temps</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/04/21/pourquoi-jai-choisis-dintegrer-une-startup/">Pourquoi J’ai Choisis D’intègrer Une Startup</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero/">Comment J’ai Commmencer Ruby Et Rails De Zéro?</a>
       </li>
     
   </ul>

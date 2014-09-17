@@ -9,8 +9,8 @@
   <meta name="author" content="Philippe Tring">
 
   
-  <meta name="description" content="About Jul 4th, 2014 Great to see you here. I&rsquo;m Philippe Tring junior developer at ChicTypes.
-On this blog, I share my thoughts on life as a &hellip;">
+  <meta name="description" content="About Jul 4th, 2014 Great to see you here. I&rsquo;m Philippe Tring developer at Easiware.
+On this blog, I share my thoughts on life as a developer &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -32,6 +32,39 @@ On this blog, I share my thoughts on life as a &hellip;">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
 
+<!-- Add for fancybox 7 september 2014 http://tritarget.org/blog/2012/05/07/integrating-photos-into-octopress-using-fancybox-and-plugin/ -->
+
+<!-- Load jQuery -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.noConflict(); // ender.js conflicts with jQuery
+</script>
+<!-- Load FancyBox -->
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css" />
+<script src="/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+<!-- Fix FancyBox style for OctoPress -->
+<style type="text/css">
+  .fancybox-wrap { position: fixed !important; }
+  .fancybox-opened {
+    -webkit-border-radius: 4px !important;
+       -moz-border-radius: 4px !important;
+            border-radius: 4px !important;
+  }
+  .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-color: transparent !important;
+    border: 0 !important;
+  }
+</style>
+
+<!-- Custom Scripts -->
+<script language="Javascript" type="text/javascript">
+// ender.js gobbles jQuery's ready event: Use ender.js $ instead
+$(document).ready(function() {
+jQuery(".fancybox").fancybox();
+});
+</script> 
+
+<!-- end of fancybox add -->
   
 
 </head>
@@ -86,11 +119,11 @@ On this blog, I share my thoughts on life as a &hellip;">
   </header>
   
   <p><img id="portrait" src="/images/profile-pic.png" alt="portrait" />
-Great to see you here. I&rsquo;m Philippe Tring junior developer at <a href="https://chictypes.com">ChicTypes</a>.
-On this blog, I share my thoughts on life as a developer and/or human being but also lessons learnt. Reach me out any time: <a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#112;&#104;&#105;&#x6c;&#x69;&#x70;&#x70;&#x65;&#116;&#114;&#x69;&#x6e;&#103;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#x6d;">&#x70;&#104;&#105;&#108;&#105;&#x70;&#112;&#101;&#x74;&#114;&#105;&#110;&#x67;&#x40;&#x67;&#x6d;&#97;&#105;&#108;&#x2e;&#99;&#111;&#109;</a></p>
+Great to see you here. I&rsquo;m Philippe Tring developer at <a href="http://www.easi-crm.com">Easiware</a>.
+On this blog, I share my thoughts on life as a developer and/or human being but also lessons learnt. Reach me out any time: <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#112;&#104;&#105;&#108;&#x69;&#x70;&#x70;&#101;&#116;&#x72;&#x69;&#x6e;&#x67;&#64;&#x67;&#109;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#x70;&#x68;&#105;&#x6c;&#105;&#112;&#112;&#x65;&#116;&#x72;&#x69;&#110;&#103;&#64;&#103;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;&#x6f;&#109;</a></p>
 
-<p>Heureux de vous voir ici. Enchanté je me nomme Philippe Tring, développeur junior chez <a href="https://chictypes.com">ChicTypes</a>.
-Sur ce blog je partage mon expérience et ma pensée sur la vie en tant que développeur ou/et être humain ainsi que les leçons que j&#8217;en ai tiré. Pour me contacter : <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#112;&#104;&#x69;&#108;&#105;&#112;&#x70;&#101;&#116;&#114;&#105;&#x6e;&#103;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#99;&#111;&#x6d;">&#112;&#x68;&#x69;&#108;&#105;&#112;&#x70;&#x65;&#x74;&#x72;&#105;&#x6e;&#x67;&#64;&#x67;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#x6f;&#109;</a></p>
+<p>Heureux de vous voir ici. Enchanté je me nomme Philippe Tring, développeur chez <a href="http://www.easi-crm.com">Easiware</a>.
+Sur ce blog je partage mon expérience et ma pensée sur la vie en tant que développeur ou/et être humain ainsi que les leçons que j&#8217;en ai tiré. Pour me contacter : <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#112;&#104;&#105;&#108;&#x69;&#x70;&#112;&#101;&#116;&#x72;&#x69;&#x6e;&#x67;&#x40;&#x67;&#x6d;&#x61;&#105;&#108;&#46;&#x63;&#x6f;&#x6d;">&#112;&#x68;&#x69;&#108;&#x69;&#x70;&#x70;&#x65;&#x74;&#x72;&#x69;&#x6e;&#x67;&#64;&#103;&#x6d;&#97;&#x69;&#108;&#x2e;&#99;&#x6f;&#x6d;</a></p>
 
   
     <footer>
@@ -140,23 +173,23 @@ Sur ce blog je partage mon expérience et ma pensée sur la vie en tant que dév
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2014/09/17/solitude/">Solitude</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/09/12/github-workflow/">Github Workflow</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2014/09/07/test2/">Test2</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2014/08/01/liste-pour-une-balade-en-velo/">Liste Pour Une Balade en Vélo</a>
       </li>
     
       <li class="post">
         <a href="/blog/2014/08/01/jumping-on-my-bike-and-rolling/">Jumping on My Bike and Rolling [En]</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/06/15/moment-de-danse-hors-du-temps/">Moment De Danse Hors Du Temps</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/04/21/pourquoi-jai-choisis-dintegrer-une-startup/">Pourquoi J’ai Choisis D’intègrer Une Startup</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero/">Comment J’ai Commmencer Ruby Et Rails De Zéro?</a>
       </li>
     
   </ul>
