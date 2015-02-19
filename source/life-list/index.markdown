@@ -46,7 +46,9 @@ These are just a few of the things, in no particular order, that I hope to cross
 33. Learn 3 cool magic trick
 34. Go to Finland, go into frozen water then into jacuzzi
 35. Launch [Bonjour Toi](http://bonjourtoi.me)
-36. Learn acupuncture points
+36. Learn traditional medicine (Shaitsu)
+37. Own an Island with my closest and build a community (Our own little world !)
+38. Contribute to an open source project (Style fix doesn't count)
 
 Have you find joy in your life ?
 Has my life brought joy to others  ?
