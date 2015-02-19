@@ -4,8 +4,7 @@ title: "Jumping on my bike and rolling [EN]"
 date: 2014-08-01 01:27:05 +0200
 comments: true
 categories: 
-- united 	kingdom
-- bike
+- united kingdom
 ---
 
 {% img center /images/bike_uk.jpg %}

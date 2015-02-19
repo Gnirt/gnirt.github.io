@@ -867,3 +867,26 @@ img.center {
 	display: block;
 	margin: 0 auto;
 }
+
+/* FancyBox Galleries */
+$rad: 6px;
+
+ul.gallery {
+  border: thin solid #a7a7a7;
+  -webkit-border-radius: $rad;
+  -moz-border-radius: $rad;
+  border-radius: $rad;
+  text-align: center;
+  padding: 5px;
+  li {
+    display: inline;
+    padding: 5px;
+	}
+} 
+
+article img, article video, article .flash-video {
+  border: 0.1em solid #a7a7a7;
+  border-radius: 0.3em;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  box-sizing: border-box;
+}

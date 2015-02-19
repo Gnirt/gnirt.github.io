@@ -13,7 +13,7 @@ These are just a few of the things, in no particular order, that I hope to cross
 
 1. Be fluent in spanish
 2. Roadtrip to South America
-3. Launch Spread The Hapiness Project
+3. Launch [Spread The Hapiness Project](https://spread-hapiness.herokuapp.com/)
 4. Mud day
 5. <del>Sleep in the desert</del> <em style='color:#ea5707'>Completed.</em>
 6. <del>Roadtrip with a bike</del> <em style='color:#ea5707'>Completed From France to UK.</em>
@@ -42,6 +42,11 @@ These are just a few of the things, in no particular order, that I hope to cross
 29. Be able to play 3 full song on the guitar.
 30. Master 5 good dishes.
 31. Backflip
+32. Visit Confucius grave
+33. Learn 3 cool magic trick
+34. Go to Finland, go into frozen water then into jacuzzi
+35. Launch [Bonjour Toi](http://bonjourtoi.me)
+36. Learn acupuncture points
 
 Have you find joy in your life ?
 Has my life brought joy to others  ?
