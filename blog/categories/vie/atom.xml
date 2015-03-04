@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Vie | Gnirt's Blog]]></title>
   <link href="http://Gnirt.github.io/blog/categories/vie/atom.xml" rel="self"/>
   <link href="http://Gnirt.github.io/"/>
-  <updated>2015-02-19T19:17:05+01:00</updated>
+  <updated>2015-03-04T22:53:57+01:00</updated>
   <id>http://Gnirt.github.io/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -152,7 +152,10 @@
     <link href="http://Gnirt.github.io/blog/2014/06/15/moment-de-danse-hors-du-temps/"/>
     <updated>2014-06-15T15:46:57+02:00</updated>
     <id>http://Gnirt.github.io/blog/2014/06/15/moment-de-danse-hors-du-temps</id>
-    <content type="html"><![CDATA[<div><iframe width="640" height="360" src="//www.youtube.com/embed/5PkOycQlqVE" frameborder="0" allowfullscreen></iframe></div>
+    <content type="html"><![CDATA[<div class="iframe-responsive-wrapper">
+    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
+    <iframe src="//www.youtube.com/embed/5PkOycQlqVE" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 
 
