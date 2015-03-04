@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Developpemment | Gnirt's Blog]]></title>
   <link href="http://Gnirt.github.io/blog/categories/developpemment/atom.xml" rel="self"/>
   <link href="http://Gnirt.github.io/"/>
-  <updated>2015-03-04T22:53:57+01:00</updated>
+  <updated>2015-03-04T23:02:16+01:00</updated>
   <id>http://Gnirt.github.io/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -20,7 +20,7 @@
     <id>http://Gnirt.github.io/blog/2015/03/04/commandements-pour-programmer-sans-ego</id>
     <content type="html"><![CDATA[<p>Si il y'a bien une chose qui me freine constamment c'est bien ma fierté. Lors de débats, de relations, mais aussi lorsqu'il s'agit d'apprendre.</p>
 
-<p>Il y’a quelques mois de cela j’ai eu l’occasion de faire une présentation à <a href="http://rubyparis.org/">ParisRuby</a> sur les 10 commandements pour programmer sans ego. (Un souhait de ma life list en plus de barré !)</p>
+<p>Il y’a quelques mois de cela j’ai eu l’occasion de faire une présentation à <a href="http://rubyparis.org/">ParisRuby</a> sur les 10 commandements pour programmer sans ego. (Un souhait de ma <a href="/life-list">life list</a> en plus de barré !)</p>
 
 <div class="iframe-responsive-wrapper">
     <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
@@ -33,12 +33,17 @@
 <!-- more -->
 
 
-<p>Mes slides</p>
+<h1>Les slides</h1>
 
-<iframe width="400" height="400" marginheight="0" marginwidth="0" src="http://philippetring.fr/egoless-presentation">
-  Unsupporting browsers... Sorry ! Here's the link http://philippetring.fr/egoless-presentation
-</iframe>
+<div class="iframe-responsive-wrapper">
+    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
+    <iframe src="http://philippetring.fr/egoless-presentation" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
+
+<p><a href="/egoless-presentation">http://philippetring.fr/egoless-presentation</a></p>
+
+<h1>Version écrite</h1>
 
 <p>Pour ceux qui préfèrent une version écrite je vous redirige vers l'excellent blog de Jeff Atwood, fondateur de Stackoverflow. <a href="http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/">Ten commandments of egoless programming</a></p>
 ]]></content>
