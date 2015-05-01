@@ -33,7 +33,7 @@ These are just a few of the things, in no particular order, that I hope to cross
 20. <del>Dance for someone</del> <em style='color:#ea5707'>Completed.</em>
 21. Get my degree
 22. Live as a minimalist for a year at least.
-23. Talk on a stage, make a dev conference.
+23. <del>Talk on a stage, make a dev conference.</del> <em style='color:#ea5707'>Completed see [Egoless Programming Post](/blog/2015/03/04/commandements-pour-programmer-sans-ego/).</em>
 24. Scuba diving.
 25. Skydive.
 26. Walk on hot coal.
@@ -46,7 +46,7 @@ These are just a few of the things, in no particular order, that I hope to cross
 33. Learn 3 cool magic trick
 34. Go to Finland, go into frozen water then into jacuzzi
 35. Launch [Bonjour Toi](http://bonjourtoi.me)
-36. Learn traditional medicine (Shaitsu)
+36. Learn traditional medicine (Shiatsu)
 37. Own an Island with my closest and build a community (Our own little world !)
 38. Contribute to an open source project (Style fix doesn't count)
 
