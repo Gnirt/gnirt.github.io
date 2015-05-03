@@ -35,9 +35,9 @@ Je trouve toujours un moment dans ma journée pour faire ma leçon d'Espagnol su
 2. Dents
 3. 15 minutes de lecture minimum
 
-Cela peut paraitre simple d'établir une routine pareille, mais c'est d'autant plus simple d'en sortir. La vie est composé de **rythme**, biorythme, jour/nuit, nnycthéméral, dans la danse, dans les arts martiaux ce matin même mon instructeur a tenté de me faire sentir le rythme de mon adversaire. Enfin mes habitudes que je me donne créent et façonnent le rythme que je donner a ma vie.
+Cela peut paraitre simple d'établir une routine pareille, mais c'est d'autant plus simple d'en sortir. La vie est composé de **rythme**, biorythme, jour/nuit, nnycthéméral, dans la danse, dans les arts martiaux ce matin même mon instructeur a tenté de me faire sentir le rythme de mon adversaire. Enfin mes habitudes que je me donne créent et façonnent le rythme que je donne a ma vie.
 
-Choses que j'aimerais inclure: 
+Choses que j'aimerais inclure dans le futur: 
 
 * Réviser mes points d'acunpuncture avant de m'endormir avec des flash cards
 * Faire un mini workout (pompes, abdos, squats, plank) après l'étirement
@@ -47,8 +47,8 @@ Choses que j'aimerais inclure:
 * Penser au meilleur moment de ma journée avant de m'endormir
 * Votre proposition?
 
-L'article que j'avais écris au départ était TRES long et contenait beaucoup de détails, j'ai donc simplement réduit cela au strict minimum. Si vous auriez voulu plus de détails ou aimer cette longueur, laisser le moi savoir dans les commentaires ! Laisser moi aussi savoir qu'elles sont vos routines.
+L'article que j'avais écris au départ était TRES long et contenait beaucoup de détails, j'ai donc simplement réduit cela au strict minimum. Si vous auriez voulu plus de détails ou aimais cette longueur, laisser le moi savoir dans les commentaires ! Laisser moi aussi savoir qu'elles sont vos routines.
 
 ~~~
 
-La photo est tiré de mon trip en vélo de Paris en Angleterre. Mon hamac accroché au dessus de la mer, qui a bien tenu mais a fini par faire un petit bain dans l'eau salée lors du rapatriement. Merci Elisa <3
+La photo est tiré de mon trip en vélo de Paris en Angleterre. Mon hamac accroché au dessus de la mer à Newhaven, qui a bien tenu mais a fini par faire un petit bain dans l'eau salée lors du rapatriement. Merci Elisa <3

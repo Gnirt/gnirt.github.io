@@ -22,7 +22,7 @@ Fidèle à moi-même je ne me suis jamais tenu à mon objectif de 2 posts par se
 
 Créer autant un article qu’un projet implique de se montrer vulnérable à la critique. Chose détesté par mon grand égo préférant se contenter d’assister, consommer et critiquer.
 
-Qu’est ce qui est au programme ? 
+Qu’est ce qui est au programme ?
 
 Introspection, récits de mes voyages, comment je gère mes finances, idées parfois bonne souvent mauvaises, préparation pour mon tour du monde à pieds, arts martiaux, médecine traditionnelle et développement personnel sont les premières idées me venant en tête.
 
@@ -30,4 +30,4 @@ A demain, vous avez aimé ? Faites le moi savoir et ajouter moi à votre flux RS
 
 ~~~
 
-La photo est une rue en Inde ou j'ai décidé de m'asseoir et jouer de l'harmonica en attendant que mes compagnons sortent de la boutique (Ne sachant évidemment pas en joué). Harmonica qui a atteri dans les mains d'un petit bonhomme dans une épicerie !
+La photo est une rue en Inde ou j'ai décidé de m'asseoir et joué de l'harmonica en attendant que mes compagnons sortent de la boutique (Ne sachant évidemment pas en jouer). Harmonica qui a atteri dans les mains d'un petit bonhomme dans une épicerie !
