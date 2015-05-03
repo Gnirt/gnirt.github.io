@@ -101,3 +101,6 @@ facebook_like: false
 
 # Tapir token
 tapir_token: 53c64856346c8f0200000001
+
+front_page_categories: [draft] # A list of categories for the front page
+front_page_categories_op : 'hide' 
