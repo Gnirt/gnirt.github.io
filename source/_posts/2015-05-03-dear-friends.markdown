@@ -20,7 +20,7 @@ Back from India I emailed him and we started exchanging.
 
 Over the time he kind of became sort of a guru to me. One who enlighten me. On things that were unknown, opening my mind but also supporting me during hard times. Having someone older and wiser you can speak about freely without judging and having a more... Experimented and different vision would be an advice I'd give anyone. 
 
-At school I’m working on a project called *Link*. We hope to connect children around the word and make pen palling (Not sure if that word exists but too lazy to check) the new cool. Sharing about their cultures, their beliefs. The idea was mainly inspired from the relationship I’m lucky we have build with Brett.
+At school I’m working on a project called [Link](http://bit.ly/1AFXy1U). We hope to connect children around the word and make pen palling (Not sure if that word exists but too lazy to check) the new cool. Sharing about their cultures, their beliefs. The idea was mainly inspired from the relationship I’m lucky we have build with Brett.
 
 # Few things have learned out of that
 
