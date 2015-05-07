@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Productivité | Tring Philippe Blog]]></title>
+<<<<<<< HEAD
   <link href="http://Gnirt.github.io/blog/categories/productivite/atom.xml" rel="self"/>
   <link href="http://Gnirt.github.io/"/>
   <updated>2015-05-08T01:35:57+02:00</updated>
   <id>http://Gnirt.github.io/</id>
+=======
+  <link href="http://philippetring.fr/blog/categories/productivite/atom.xml" rel="self"/>
+  <link href="http://philippetring.fr/"/>
+  <updated>2015-05-08T01:49:27+02:00</updated>
+  <id>http://philippetring.fr/</id>
+>>>>>>> 60e8dddb2107bf8a98e95a4c2fc1aaec78719214
   <author>
     <name><![CDATA[Philippe Tring]]></name>
     
@@ -15,10 +22,17 @@
   
   <entry>
     <title type="html"><![CDATA[20 Conseils Pour Mieux Réussir Vos Recherches Sur Google (Partie 2)]]></title>
+<<<<<<< HEAD
     <link href="http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/"/>
     <updated>2014-02-19T09:32:25+01:00</updated>
     <id>http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2</id>
     <content type="html"><![CDATA[<p>Aujourd'hui je partage avec vous 10 autres tips pour faire des recherches plus efficaces sur Google (ou comme j'aime l'appeler l'Oracle) ! Vous pouvez retrouver la première partie <a href="http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/">ici<br /></a></p>
+=======
+    <link href="http://philippetring.fr/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/"/>
+    <updated>2014-02-19T09:32:25+01:00</updated>
+    <id>http://philippetring.fr/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2</id>
+    <content type="html"><![CDATA[<p>Aujourd'hui je partage avec vous 10 autres tips pour faire des recherches plus efficaces sur Google (ou comme j'aime l'appeler l'Oracle) ! Vous pouvez retrouver la première partie <a href="http://philippetring.fr/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/">ici<br /></a></p>
+>>>>>>> 60e8dddb2107bf8a98e95a4c2fc1aaec78719214
 
 
 <!-- more -->
@@ -61,9 +75,15 @@
   
   <entry>
     <title type="html"><![CDATA[20 Tips Pour Mieux Réussir Vos Recherches Sur Google (Partie 1)]]></title>
+<<<<<<< HEAD
     <link href="http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/"/>
     <updated>2014-01-29T10:37:01+01:00</updated>
     <id>http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1</id>
+=======
+    <link href="http://philippetring.fr/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/"/>
+    <updated>2014-01-29T10:37:01+01:00</updated>
+    <id>http://philippetring.fr/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1</id>
+>>>>>>> 60e8dddb2107bf8a98e95a4c2fc1aaec78719214
     <content type="html"><![CDATA[<p>Aujourd’hui je partage avec vous 10 tips pour faire des recherches plus efficaces sur Google (ou comme j’aime l’appeler l’Oracle) !</p>
 
 <!-- more -->
