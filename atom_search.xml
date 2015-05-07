@@ -2,10 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Tring Philippe Blog]]></title>
+<<<<<<< HEAD
   <link href="http://philippetring.fr/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
   <updated>2015-05-08T01:49:27+02:00</updated>
   <id>http://philippetring.fr/</id>
+=======
+  <link href="http://Gnirt.github.io/atom.xml" rel="self"/>
+  <link href="http://Gnirt.github.io/"/>
+  <updated>2015-05-07T01:25:54+02:00</updated>
+  <id>http://Gnirt.github.io/</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
   <author>
     <name><![CDATA[Philippe Tring]]></name>
     
@@ -16,17 +23,28 @@
   <entry>
     <title type="html"><![CDATA[Organisation]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/05/06/organisation/"/>
     <updated>2015-05-06T22:56:29+02:00</updated>
     <id>http://philippetring.fr/blog/2015/05/06/organisation</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/organisation.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/05/06/organisation/"/>
+    <updated>2015-05-06T22:56:29+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/05/06/organisation</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/organisation.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>23h, je n&#8217;ai toujours pas commencé mon article de la journée. Cela me rappelle quand j&#8217;étais au collège et que je faisais toujours mes devoirs la veille (lorsque je les faisais). J&#8217;aime me considérer comme quelqu&#8217;un d&#8217;organisé, mais ces derniers temps il y&#8217;a juste ÉNORMÉMENT de choses en cours. Comment est-ce que je m&#8217;organise ?</p>
 
 <!-- more -->
 
 
+<<<<<<< HEAD
 <p>J&#8217;en ai parlé précédemment dans ma <a href="http://philippetring.fr/blog/2015/05/02/habitudes-quotidiennes/">routine quotidienne</a>, mais tous les jours je note 3 choses à faire dans la journée, dont 1 grosse tache dont je m&#8217;occupe en priorité dès que possible. Aujourd&#8217;hui, c&#8217;était faire la landing page de <a href="http://bit.ly/1AFXy1U" target="_blank">Link</a>. Le revers est qu&#8217;il est souvent simple de se contenter de ces 3 choses et de ne pas faire plus. De plus, je passe beaucoup trop de temps sur Youtube, d&#8217;ailleurs je vais enlever tous mes abonnements de ce pas&hellip; J&#8217;en ai laissé 12/94 !</p>
+=======
+<p>J&#8217;en ai parlé précédemment dans ma <a href="http://Gnirt.github.io/blog/2015/05/02/habitudes-quotidiennes/">routine quotidienne</a>, mais tous les jours je note 3 choses à faire dans la journée, dont 1 grosse tache dont je m&#8217;occupe en priorité dès que possible. Aujourd&#8217;hui, c&#8217;était faire la landing page de <a href="http://bit.ly/1AFXy1U" target="_blank">Link</a>. Le revers est qu&#8217;il est souvent simple de se contenter de ces 3 choses et de ne pas faire plus. De plus, je passe beaucoup trop de temps sur Youtube, d&#8217;ailleurs je vais enlever tous mes abonnements de ce pas&hellip; J&#8217;en ai laissé 12/94 !</p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <h1>Lister tout ce qu&#8217;il y&#8217;a à faire</h1>
 
@@ -80,10 +98,17 @@
   <entry>
     <title type="html"><![CDATA[Merci à toi mon mal de tête.]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/05/05/mal-de-tete/"/>
     <updated>2015-05-05T18:22:53+02:00</updated>
     <id>http://philippetring.fr/blog/2015/05/05/mal-de-tete</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/mal-de-tete.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/05/05/mal-de-tete/"/>
+    <updated>2015-05-05T18:22:53+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/05/05/mal-de-tete</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/mal-de-tete.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Depuis hier soir j&#8217;ai une migraine qui m&#8217;a empêchée de dormir correctement ne pouvant me concentrer sur autres choses. Mais refusant de prendre des médicaments croyant dur comme fer que mon organisme est capable de s&#8217;auto guérir de se genre de misère. J&#8217;en tire néanmoins une leçon.</p>
 
@@ -117,10 +142,17 @@
   <entry>
     <title type="html"><![CDATA[Pensée religieuse]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/05/04/religion-thinking/"/>
     <updated>2015-05-04T21:18:40+02:00</updated>
     <id>http://philippetring.fr/blog/2015/05/04/religion-thinking</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/religion-think.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/05/04/religion-thinking/"/>
+    <updated>2015-05-04T21:18:40+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/05/04/religion-thinking</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/religion-think.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>La religion est un sujet que j&#8217;ai toujours tenté d&#8217;éviter n&#8217;aimant pas les confrontations, mais étant ici pour me dépasser, voila mon opinion que j&#8217;ai développée suite à une question d&#8217;un ami Chrétien. (Je suis Athée)</p>
 
@@ -141,7 +173,11 @@
 
 <p>Est-ce que j&#8217;existe vraiment? C&#8217;est un peu la question que je me pose tout le temps dans ma tête, haha. Demain je reviens avec quelque chose de plus terre à terre !</p>
 
+<<<<<<< HEAD
 <p>Ps : Peut être que certain vont me prendre pour un fou ou peut être que cela va changer la vision d&#8217;une personne. et ce sera déjà beaucoup pour moi. Toute la beauté de ce monde ! Est-ce que d&#8217;autres personnes on eut des pensées pareilles? N’hésitez pas en commentaire ou à <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#112;&#x68;&#105;&#x6c;&#x69;&#112;&#x70;&#101;&#116;&#x72;&#105;&#x6e;&#103;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#x2e;&#99;&#111;&#109;">&#x70;&#x68;&#105;&#x6c;&#105;&#112;&#x70;&#101;&#116;&#114;&#105;&#x6e;&#103;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;&#99;&#111;&#109;</a> peu importe exprimez vous !</p>
+=======
+<p>Ps : Peut être que certain vont me prendre pour un fou ou peut être que cela va changer la vision d&#8217;une personne. et ce sera déjà beaucoup pour moi. Toute la beauté de ce monde ! Est-ce que d&#8217;autres personnes on eut des pensées pareilles? N’hésitez pas en commentaire ou à <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#112;&#104;&#x69;&#x6c;&#105;&#112;&#x70;&#101;&#116;&#114;&#x69;&#x6e;&#103;&#64;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#x63;&#x6f;&#109;">&#x70;&#x68;&#105;&#108;&#x69;&#x70;&#x70;&#101;&#x74;&#x72;&#x69;&#110;&#x67;&#x40;&#x67;&#x6d;&#97;&#x69;&#108;&#x2e;&#x63;&#x6f;&#109;</a> peu importe exprimez vous !</p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>~~~</p>
 
@@ -152,10 +188,17 @@
   <entry>
     <title type="html"><![CDATA[Dear friends]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/05/03/dear-friends/"/>
     <updated>2015-05-03T12:13:15+02:00</updated>
     <id>http://philippetring.fr/blog/2015/05/03/dear-friends</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/dear-friends.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/05/03/dear-friends/"/>
+    <updated>2015-05-03T12:13:15+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/05/03/dear-friends</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/dear-friends.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Today is Sunday and every Sunday for several weeks I kept telling myself to answer Brett, my pen pal from Utah. It&rsquo;s funny how a simple encounter can change you.</p>
 
@@ -195,10 +238,17 @@
   <entry>
     <title type="html"><![CDATA[Habitudes quotidiennes]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/05/02/habitudes-quotidiennes/"/>
     <updated>2015-05-02T17:19:06+02:00</updated>
     <id>http://philippetring.fr/blog/2015/05/02/habitudes-quotidiennes</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/daily-habits.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/05/02/habitudes-quotidiennes/"/>
+    <updated>2015-05-02T17:19:06+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/05/02/habitudes-quotidiennes</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/daily-habits.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Après lecture de <a href="http://charlesduhigg.com/the-power-of-habit/" target="_blank">The power of habits</a> je suis convaincu qu&#8217;une routine le matin et le soir me permet d&#8217;amener un peu d&#8217;ordre et de calme dans ma vie.</p>
 
@@ -261,10 +311,17 @@
   <entry>
     <title type="html"><![CDATA[Ecriture et peur]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/05/01/ecriture-et-peur/"/>
     <updated>2015-05-01T16:09:35+02:00</updated>
     <id>http://philippetring.fr/blog/2015/05/01/ecriture-et-peur</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/write-and-fear.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/05/01/ecriture-et-peur/"/>
+    <updated>2015-05-01T16:09:35+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/05/01/ecriture-et-peur</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/write-and-fear.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Ecrire est un art qui m’a toujours semblé obscur. Il y a quelques mois de cela je démarrais ce blog pensant aux bienfaits d&#8217;écrire.</p>
 
@@ -296,12 +353,21 @@
   <entry>
     <title type="html"><![CDATA[10 Commandements pour programmer sans ego]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/03/04/commandements-pour-programmer-sans-ego/"/>
     <updated>2015-03-04T08:59:49+01:00</updated>
     <id>http://philippetring.fr/blog/2015/03/04/commandements-pour-programmer-sans-ego</id>
     <content type="html"><![CDATA[<p>Si il y&#8217;a bien une chose qui me freine constamment c&#8217;est bien ma fierté. Lors de débats, de relations, mais aussi lorsqu&#8217;il s&#8217;agit d&#8217;apprendre.</p>
 
 <p>Il y’a quelques mois de cela j’ai eu l’occasion de faire une présentation à <a href="http://rubyparis.org/">ParisRuby</a> sur les 10 commandements pour programmer sans ego. (Un souhait de ma <a href="http://philippetring.fr/life-list">life list</a> en plus de barré !)</p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/03/04/commandements-pour-programmer-sans-ego/"/>
+    <updated>2015-03-04T08:59:49+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/03/04/commandements-pour-programmer-sans-ego</id>
+    <content type="html"><![CDATA[<p>Si il y&#8217;a bien une chose qui me freine constamment c&#8217;est bien ma fierté. Lors de débats, de relations, mais aussi lorsqu&#8217;il s&#8217;agit d&#8217;apprendre.</p>
+
+<p>Il y’a quelques mois de cela j’ai eu l’occasion de faire une présentation à <a href="http://rubyparis.org/">ParisRuby</a> sur les 10 commandements pour programmer sans ego. (Un souhait de ma <a href="http://Gnirt.github.io/life-list">life list</a> en plus de barré !)</p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <div class="iframe-responsive-wrapper">
     <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
@@ -322,7 +388,11 @@
 </div>
 
 
+<<<<<<< HEAD
 <p><a href="http://philippetring.fr/egoless-presentation">http://philippetring.fr/egoless-presentation</a></p>
+=======
+<p><a href="http://Gnirt.github.io/egoless-presentation">http://philippetring.fr/egoless-presentation</a></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <h1>Version écrite</h1>
 
@@ -333,10 +403,17 @@
   <entry>
     <title type="html"><![CDATA[Utiliser un ballon de fitness comme chaise de bureau ?]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau/"/>
     <updated>2015-02-18T07:36:19+01:00</updated>
     <id>http://philippetring.fr/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/ball-chair-main-2.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau/"/>
+    <updated>2015-02-18T07:36:19+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/ball-chair-main-2.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>S&#8217;asseoir sur une chaise toute la journée est vraiment mauvais. Qu&#8217;en est-il de s&#8217;asseoir sur un ballon d&#8217;exercice ?</p>
 
@@ -358,7 +435,11 @@
 <ul>
 <li>Le fait de pouvoir jump en écoutant une musique entrainante en plein milieu de l&#8217;open-space</li>
 <li>Faire le pont (Etirer son dos par la même occasion) pour réfléchir&hellip; ou pas ! Bonus, un animal snappé dans son état naturel. (Clic sur l&#8217;image)<br>
+<<<<<<< HEAD
 <a href="http://philippetring.fr/images/ball-chair-snapchat.jpg" class="fancybox" title="snap by Tobi "><img src="http://philippetring.fr/images/ball-chair-snapchat-thumb.jpg" alt="snap by Tobi " /></a></li>
+=======
+<a href="http://Gnirt.github.io/images/ball-chair-snapchat.jpg" class="fancybox" title="snap by Tobi "><img src="http://Gnirt.github.io/images/ball-chair-snapchat-thumb.jpg" alt="snap by Tobi " /></a></li>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 <li>Tenter de rester aussi longtemps que possible en équilibre en décollant les pieds du sol.</li>
 <li>Pour la gente féminine la possibilité de se frotter l&#8217;entrejambe serait plausible d&#8217;après une testeuse souhaitant garder l&#8217;anonymat. (Faites juste attention aux regards de vos collègues !)</li>
 </ul>
@@ -382,10 +463,17 @@
   <entry>
     <title type="html"><![CDATA[Pensée nocturne sur les technologies pour les enfants]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/01/18/pensee-nocturne-sur-les-technologies-pour-les-enfants/"/>
     <updated>2015-01-18T21:48:48+01:00</updated>
     <id>http://philippetring.fr/blog/2015/01/18/pensee-nocturne-sur-les-technologies-pour-les-enfants</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/technologies-enfants.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/01/18/pensee-nocturne-sur-les-technologies-pour-les-enfants/"/>
+    <updated>2015-01-18T21:48:48+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/01/18/pensee-nocturne-sur-les-technologies-pour-les-enfants</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/technologies-enfants.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <blockquote><p>“We refuse to turn off our computers, turn off our phone, log off Facebook, and just sit in silence, because in those moments we might actually have to face up to who we really are.” — Jefferson Bethke</p></blockquote>
 
@@ -433,9 +521,15 @@
   <entry>
     <title type="html"><![CDATA[Poéme]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2015/01/01/poeme/"/>
     <updated>2015-01-01T18:30:53+01:00</updated>
     <id>http://philippetring.fr/blog/2015/01/01/poeme</id>
+=======
+    <link href="http://Gnirt.github.io/blog/2015/01/01/poeme/"/>
+    <updated>2015-01-01T18:30:53+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/01/01/poeme</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
     <content type="html"><![CDATA[<p>Bonjour, comment allez-vous?</p>
 
 <p>J&#8217;ai débuté cette année en faisant quelquechose que je n&#8217;avais pas fait depuis&hellip; Des années.</p>
@@ -520,9 +614,15 @@
   <entry>
     <title type="html"><![CDATA[Uk bike roadtrip photo gallery]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/09/28/uk-roadtrip-photo-gallery/"/>
     <updated>2014-09-28T21:41:49+02:00</updated>
     <id>http://philippetring.fr/blog/2014/09/28/uk-roadtrip-photo-gallery</id>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/09/28/uk-roadtrip-photo-gallery/"/>
+    <updated>2014-09-28T21:41:49+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/09/28/uk-roadtrip-photo-gallery</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
     <content type="html"><![CDATA[<blockquote><p>&ldquo;The very basic core of a man&rsquo;s living spirit is his passion for adventure.&rdquo; &ndash; <a href="http://en.wikipedia.org/wiki/Christopher_McCandless">Christopher McCandless</a></p></blockquote>
 
 <!-- more -->
@@ -531,7 +631,11 @@
 <p>Some pictures took from my bike trip from Paris to UK. You can click on the images, there&rsquo;s also comments beside of them. Pictures order follow the chronology of my journey. Enjoy !</p>
 
 <ul class="gallery">
+<<<<<<< HEAD
 <li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0016.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Guess where i am ?"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0016.jpg" alt="Guess where i am ?" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0017.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Chilling."><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0017.jpg" alt="Chilling." /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0018.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="A try to be creative !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0018.jpg" alt="A try to be creative !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0019.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Hit the road jack !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0019.jpg" alt="Hit the road jack !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0022.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Night one. First wild camp. Looks good right? But I had the worst night actually !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0022.jpg" alt="Night one. First wild camp. Looks good right? But I had the worst night actually !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0024.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Magic tree !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0024.jpg" alt="Magic tree !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0025.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Chapel ?"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0025.jpg" alt="Chapel ?" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0027.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Second night sleeping in a equestrian center"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0027.jpg" alt="Second night sleeping in a equestrian center" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0028.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks to the LERAT for their hosting <3"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0028.jpg" alt="Thanks to the LERAT for their hosting <3" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0032.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Great encounters make great stories !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0032.jpg" alt="Great encounters make great stories !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0034.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Had to make at least one selfie !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0034.jpg" alt="Had to make at least one selfie !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0035.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Bye France"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0035.jpg" alt="Bye France" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0036.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="UK HERE I COME !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0036.jpg" alt="UK HERE I COME !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0037.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for all your advices dr Richard !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0037.jpg" alt="Thanks for all your advices dr Richard !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0038.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="My everyday meal ! Yummy !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0038.jpg" alt="My everyday meal ! Yummy !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0040.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="This is what happen when you start searching for a place to sleep when the sun is down ! (Literraly slept in the middle of NewHaven)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0040.jpg" alt="This is what happen when you start searching for a place to sleep when the sun is down ! (Literraly slept in the middle of NewHaven)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0042.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="First sunrise"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0042.jpg" alt="First sunrise" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0043.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="To infinity and beyond !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0043.jpg" alt="To infinity and beyond !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0044.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Lewes !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0044.jpg" alt="Lewes !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0045.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="First Costa cup (Mocha latte i miss you !). Planning my road !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0045.jpg" alt="First Costa cup (Mocha latte i miss you !). Planning my road !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0047.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="One day i'll have one !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0047.jpg" alt="One day i'll have one !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0048.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="My favorite teammates ! Thnaks for this awesome afternoon guys"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0048.jpg" alt="My favorite teammates ! Thnaks for this awesome afternoon guys" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0049.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0049.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0050.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Learning some Bowl"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0050.jpg" alt="Learning some Bowl" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0051.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I know some of you love cats"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0051.jpg" alt="I know some of you love cats" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0054.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0054.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0056.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0056.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0057.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for the tour :)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0057.jpg" alt="Thanks for the tour :)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0058.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Sneaked in a private property HUAHUAHUA"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0058.jpg" alt="Sneaked in a private property HUAHUAHUA" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0059.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Amsterdam, i'll come !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0059.jpg" alt="Amsterdam, i'll come !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0060.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Not as good as in Paris..."><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0060.jpg" alt="Not as good as in Paris..." /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0061.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I do read sometimes (A lot actually gnark)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0061.jpg" alt="I do read sometimes (A lot actually gnark)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0062.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for the shower huhu"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0062.jpg" alt="Thanks for the shower huhu" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0063.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Hope you made it into your plane !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0063.jpg" alt="Hope you made it into your plane !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0065.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Random dancing & singing in the park, THAT WAS AWESOME (But you girls are freak honestly !)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0065.jpg" alt="Random dancing & singing in the park, THAT WAS AWESOME (But you girls are freak honestly !)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0066.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0066.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0067.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Big breakfast !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0067.jpg" alt="Big breakfast !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0068.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="London !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0068.jpg" alt="London !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0069.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="My hommie from belushi's hammersmith"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0069.jpg" alt="My hommie from belushi's hammersmith" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0070.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0070.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0071.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I stole his bed."><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0071.jpg" alt="I stole his bed." /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0072.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="How is your journey back to Australia ?"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0072.jpg" alt="How is your journey back to Australia ?" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0073.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="FINALLY A BED (well i actually did miss my hammock when i got into that bed)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0073.jpg" alt="FINALLY A BED (well i actually did miss my hammock when i got into that bed)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0078.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Barbershop time !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0078.jpg" alt="Barbershop time !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0080.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Yummy"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0080.jpg" alt="Yummy" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0081.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0081.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0082.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="London bridge (Well, I had to cross it)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0082.jpg" alt="London bridge (Well, I had to cross it)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0083.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Wish i could live into that train !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0083.jpg" alt="Wish i could live into that train !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0084.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="PARTY ROCK"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0084.jpg" alt="PARTY ROCK" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0085.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Sunday is bike day !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0085.jpg" alt="Sunday is bike day !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0086.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0086.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0087.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0087.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0088.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Had to get one Fish & Chips !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0088.jpg" alt="Had to get one Fish & Chips !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0089.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="AND IT WAS AWESOME"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0089.jpg" alt="AND IT WAS AWESOME" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0090.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Bye London"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0090.jpg" alt="Bye London" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0091.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="South west here I come !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0091.jpg" alt="South west here I come !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0092.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0092.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0093.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I don't agree at ALL (trying to be ironic there...)"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0093.jpg" alt="I don't agree at ALL (trying to be ironic there...)" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0095.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0095.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0097.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for the pizza guys <3"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0097.jpg" alt="Thanks for the pizza guys <3" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0098.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0098.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0100.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I really wanted to get inside !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0100.jpg" alt="I really wanted to get inside !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0101.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0101.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0102.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Need to read that !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0102.jpg" alt="Need to read that !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0108.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="And re read that !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0108.jpg" alt="And re read that !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0109.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="One night later"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0109.jpg" alt="One night later" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0110.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Two night later"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0110.jpg" alt="Two night later" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0111.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Gorgeous landscape to see while in my hammock sleep"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0111.jpg" alt="Gorgeous landscape to see while in my hammock sleep" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0112.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0112.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0113.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Retrying to be creative"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0113.jpg" alt="Retrying to be creative" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0114.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="DONUTS TIMEEEEEEEEEEEE"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0114.jpg" alt="DONUTS TIMEEEEEEEEEEEE" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0116.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0116.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0119.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Bad night in a park ! I was very afraid of the guardian/watcher catching me..."><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0119.jpg" alt="Bad night in a park ! I was very afraid of the guardian/watcher catching me..." /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0120.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Following the sea"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0120.jpg" alt="Following the sea" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0121.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0121.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0122.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0122.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0123.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0123.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0124.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0124.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0125.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I'm still a geek !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0125.jpg" alt="I'm still a geek !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0127.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Behind a garden !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0127.jpg" alt="Behind a garden !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0128.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0128.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0129.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0129.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0130.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Dad and Mum !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0130.jpg" alt="Dad and Mum !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0131.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Mum feeling like putting my hammock on top of the sea"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0131.jpg" alt="Mum feeling like putting my hammock on top of the sea" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0132.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0132.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0133.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0133.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0134.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Honestly... I was so afraid to fall in the water HAHA"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0134.jpg" alt="Honestly... I was so afraid to fall in the water HAHA" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0135.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0135.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0136.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0136.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0137.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I did yell like a chicken."><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0137.jpg" alt="I did yell like a chicken." /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0138.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0138.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0139.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0139.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0140.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0140.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0141.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0141.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0142.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0142.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0143.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Nap time !"><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0143.jpg" alt="Nap time !" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0145.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0145.jpg" alt="" /></a></li><li><a href="http://philippetring.fr/images/uk_roadtrip_2014/IMG_0148.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://philippetring.fr/images/uk_roadtrip_2014/thumbs/IMG_0148.jpg" alt="" /></a></li>
+=======
+<li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0016.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Guess where i am ?"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0016.jpg" alt="Guess where i am ?" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0017.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Chilling."><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0017.jpg" alt="Chilling." /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0018.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="A try to be creative !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0018.jpg" alt="A try to be creative !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0019.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Hit the road jack !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0019.jpg" alt="Hit the road jack !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0022.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Night one. First wild camp. Looks good right? But I had the worst night actually !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0022.jpg" alt="Night one. First wild camp. Looks good right? But I had the worst night actually !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0024.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Magic tree !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0024.jpg" alt="Magic tree !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0025.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Chapel ?"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0025.jpg" alt="Chapel ?" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0027.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Second night sleeping in a equestrian center"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0027.jpg" alt="Second night sleeping in a equestrian center" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0028.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks to the LERAT for their hosting <3"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0028.jpg" alt="Thanks to the LERAT for their hosting <3" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0032.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Great encounters make great stories !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0032.jpg" alt="Great encounters make great stories !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0034.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Had to make at least one selfie !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0034.jpg" alt="Had to make at least one selfie !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0035.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Bye France"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0035.jpg" alt="Bye France" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0036.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="UK HERE I COME !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0036.jpg" alt="UK HERE I COME !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0037.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for all your advices dr Richard !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0037.jpg" alt="Thanks for all your advices dr Richard !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0038.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="My everyday meal ! Yummy !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0038.jpg" alt="My everyday meal ! Yummy !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0040.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="This is what happen when you start searching for a place to sleep when the sun is down ! (Literraly slept in the middle of NewHaven)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0040.jpg" alt="This is what happen when you start searching for a place to sleep when the sun is down ! (Literraly slept in the middle of NewHaven)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0042.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="First sunrise"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0042.jpg" alt="First sunrise" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0043.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="To infinity and beyond !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0043.jpg" alt="To infinity and beyond !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0044.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Lewes !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0044.jpg" alt="Lewes !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0045.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="First Costa cup (Mocha latte i miss you !). Planning my road !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0045.jpg" alt="First Costa cup (Mocha latte i miss you !). Planning my road !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0047.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="One day i'll have one !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0047.jpg" alt="One day i'll have one !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0048.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="My favorite teammates ! Thnaks for this awesome afternoon guys"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0048.jpg" alt="My favorite teammates ! Thnaks for this awesome afternoon guys" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0049.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0049.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0050.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Learning some Bowl"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0050.jpg" alt="Learning some Bowl" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0051.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I know some of you love cats"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0051.jpg" alt="I know some of you love cats" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0054.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0054.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0056.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0056.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0057.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for the tour :)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0057.jpg" alt="Thanks for the tour :)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0058.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Sneaked in a private property HUAHUAHUA"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0058.jpg" alt="Sneaked in a private property HUAHUAHUA" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0059.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Amsterdam, i'll come !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0059.jpg" alt="Amsterdam, i'll come !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0060.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Not as good as in Paris..."><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0060.jpg" alt="Not as good as in Paris..." /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0061.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I do read sometimes (A lot actually gnark)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0061.jpg" alt="I do read sometimes (A lot actually gnark)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0062.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for the shower huhu"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0062.jpg" alt="Thanks for the shower huhu" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0063.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Hope you made it into your plane !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0063.jpg" alt="Hope you made it into your plane !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0065.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Random dancing & singing in the park, THAT WAS AWESOME (But you girls are freak honestly !)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0065.jpg" alt="Random dancing & singing in the park, THAT WAS AWESOME (But you girls are freak honestly !)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0066.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0066.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0067.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Big breakfast !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0067.jpg" alt="Big breakfast !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0068.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="London !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0068.jpg" alt="London !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0069.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="My hommie from belushi's hammersmith"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0069.jpg" alt="My hommie from belushi's hammersmith" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0070.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0070.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0071.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I stole his bed."><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0071.jpg" alt="I stole his bed." /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0072.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="How is your journey back to Australia ?"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0072.jpg" alt="How is your journey back to Australia ?" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0073.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="FINALLY A BED (well i actually did miss my hammock when i got into that bed)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0073.jpg" alt="FINALLY A BED (well i actually did miss my hammock when i got into that bed)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0078.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Barbershop time !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0078.jpg" alt="Barbershop time !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0080.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Yummy"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0080.jpg" alt="Yummy" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0081.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0081.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0082.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="London bridge (Well, I had to cross it)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0082.jpg" alt="London bridge (Well, I had to cross it)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0083.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Wish i could live into that train !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0083.jpg" alt="Wish i could live into that train !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0084.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="PARTY ROCK"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0084.jpg" alt="PARTY ROCK" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0085.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Sunday is bike day !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0085.jpg" alt="Sunday is bike day !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0086.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0086.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0087.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0087.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0088.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Had to get one Fish & Chips !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0088.jpg" alt="Had to get one Fish & Chips !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0089.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="AND IT WAS AWESOME"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0089.jpg" alt="AND IT WAS AWESOME" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0090.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Bye London"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0090.jpg" alt="Bye London" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0091.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="South west here I come !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0091.jpg" alt="South west here I come !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0092.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0092.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0093.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I don't agree at ALL (trying to be ironic there...)"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0093.jpg" alt="I don't agree at ALL (trying to be ironic there...)" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0095.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0095.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0097.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Thanks for the pizza guys <3"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0097.jpg" alt="Thanks for the pizza guys <3" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0098.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0098.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0100.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I really wanted to get inside !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0100.jpg" alt="I really wanted to get inside !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0101.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0101.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0102.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Need to read that !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0102.jpg" alt="Need to read that !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0108.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="And re read that !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0108.jpg" alt="And re read that !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0109.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="One night later"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0109.jpg" alt="One night later" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0110.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Two night later"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0110.jpg" alt="Two night later" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0111.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Gorgeous landscape to see while in my hammock sleep"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0111.jpg" alt="Gorgeous landscape to see while in my hammock sleep" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0112.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0112.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0113.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Retrying to be creative"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0113.jpg" alt="Retrying to be creative" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0114.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="DONUTS TIMEEEEEEEEEEEE"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0114.jpg" alt="DONUTS TIMEEEEEEEEEEEE" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0116.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0116.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0119.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Bad night in a park ! I was very afraid of the guardian/watcher catching me..."><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0119.jpg" alt="Bad night in a park ! I was very afraid of the guardian/watcher catching me..." /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0120.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Following the sea"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0120.jpg" alt="Following the sea" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0121.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0121.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0122.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0122.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0123.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0123.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0124.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0124.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0125.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I'm still a geek !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0125.jpg" alt="I'm still a geek !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0127.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Behind a garden !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0127.jpg" alt="Behind a garden !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0128.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0128.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0129.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0129.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0130.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Dad and Mum !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0130.jpg" alt="Dad and Mum !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0131.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Mum feeling like putting my hammock on top of the sea"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0131.jpg" alt="Mum feeling like putting my hammock on top of the sea" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0132.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0132.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0133.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0133.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0134.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Honestly... I was so afraid to fall in the water HAHA"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0134.jpg" alt="Honestly... I was so afraid to fall in the water HAHA" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0135.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0135.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0136.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0136.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0137.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="I did yell like a chicken."><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0137.jpg" alt="I did yell like a chicken." /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0138.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0138.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0139.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0139.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0140.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0140.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0141.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0141.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0142.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0142.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0143.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title="Nap time !"><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0143.jpg" alt="Nap time !" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0145.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0145.jpg" alt="" /></a></li><li><a href="http://Gnirt.github.io/images/uk_roadtrip_2014/IMG_0148.jpg" class="fancybox" rel="gallery-bb3aa910c515a7e7dc30127bfb09bb9a" title=""><img src="http://Gnirt.github.io/images/uk_roadtrip_2014/thumbs/IMG_0148.jpg" alt="" /></a></li>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 </ul>
 
 ]]></content>
@@ -540,10 +644,17 @@
   <entry>
     <title type="html"><![CDATA[Les bienfaits de la solitude]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/09/17/solitude/"/>
     <updated>2014-09-17T12:28:51+02:00</updated>
     <id>http://philippetring.fr/blog/2014/09/17/solitude</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/solitude.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/09/17/solitude/"/>
+    <updated>2014-09-17T12:28:51+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/09/17/solitude</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/solitude.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <blockquote><p>“The best thinking has been done in solitude.” – Thomas Edison</p></blockquote>
 
@@ -552,7 +663,11 @@
 <!-- more -->
 
 
+<<<<<<< HEAD
 <p>Je veux dire&hellip; Réellement seul, sans Facebook, Twitter, vous floodant de notifications via votre smartphone à portée de main. Pouvez-vous vous rappellez de ce moment ? La notion de vitesse dans le monde où nous vivons ne laisse que peu de place pour s&#8217;arreter et sentir une fleur. Nous pouvons dorénavant traverser toute la planète en une poignée d&#8217;heures. D&#8217;ailleurs j&#8217;écris moi même cet article depuis un train allant de Paris à Marseille en moins de 4 heures ! Mon conseil après mon <a href="http://philippetring.fr/blog/2014/08/01/jumping-on-my-bike-and-rolling/">trip solitaire en vélo</a> ?</p>
+=======
+<p>Je veux dire&hellip; Réellement seul, sans Facebook, Twitter, vous floodant de notifications via votre smartphone à portée de main. Pouvez-vous vous rappellez de ce moment ? La notion de vitesse dans le monde où nous vivons ne laisse que peu de place pour s&#8217;arreter et sentir une fleur. Nous pouvons dorénavant traverser toute la planète en une poignée d&#8217;heures. D&#8217;ailleurs j&#8217;écris moi même cet article depuis un train allant de Paris à Marseille en moins de 4 heures ! Mon conseil après mon <a href="http://Gnirt.github.io/blog/2014/08/01/jumping-on-my-bike-and-rolling/">trip solitaire en vélo</a> ?</p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <h2>Prennez du temps pour vous.</h2>
 
@@ -577,10 +692,17 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[Liste pour une balade en vélo]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/08/01/liste-pour-une-balade-en-velo/"/>
     <updated>2014-08-01T02:00:51+02:00</updated>
     <id>http://philippetring.fr/blog/2014/08/01/liste-pour-une-balade-en-velo</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/list_items_bike.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/08/01/liste-pour-une-balade-en-velo/"/>
+    <updated>2014-08-01T02:00:51+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/08/01/liste-pour-une-balade-en-velo</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/list_items_bike.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Hello étant donné que j&#8217;avais déjà dans un fichier texte avec la liste toute prête, je partage avec vous la liste de ce que je ramene avec moi pour ce voyage de <strong>1 mois en vélo</strong> au Royaume-Uni !</p>
 
@@ -681,10 +803,17 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[Jumping on my bike and rolling [EN]]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/08/01/jumping-on-my-bike-and-rolling/"/>
     <updated>2014-08-01T01:27:05+02:00</updated>
     <id>http://philippetring.fr/blog/2014/08/01/jumping-on-my-bike-and-rolling</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/bike_uk.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/08/01/jumping-on-my-bike-and-rolling/"/>
+    <updated>2014-08-01T01:27:05+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/08/01/jumping-on-my-bike-and-rolling</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/bike_uk.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Hey guys! As some of you may know this summer I decided to do a roadtrip during <strong>1 month on my bike alone to United Kindgom</strong> going as far as i can (without injuring myself of course!)</p>
 
@@ -731,16 +860,26 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
 
 <p>If you have any questions, comments and remember if anybody answer this post and find 5 errors in the text, I Philippe TRING swear to take him/her to get a drink !</p>
 
+<<<<<<< HEAD
 <p>Bonus : The <a href="http://philippetring.fr/blog/2014/08/01/liste-pour-une-balade-en-velo/">full list</a> of what i&rsquo;m bringing with me during my trip. Peace !</p>
+=======
+<p>Bonus : The <a href="http://Gnirt.github.io/blog/2014/08/01/liste-pour-une-balade-en-velo/">full list</a> of what i&rsquo;m bringing with me during my trip. Peace !</p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Moment de danse hors du temps]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/06/15/moment-de-danse-hors-du-temps/"/>
     <updated>2014-06-15T15:46:57+02:00</updated>
     <id>http://philippetring.fr/blog/2014/06/15/moment-de-danse-hors-du-temps</id>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/06/15/moment-de-danse-hors-du-temps/"/>
+    <updated>2014-06-15T15:46:57+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/06/15/moment-de-danse-hors-du-temps</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
     <content type="html"><![CDATA[<div class="iframe-responsive-wrapper">
     <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
     <iframe src="//www.youtube.com/embed/5PkOycQlqVE" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
@@ -757,10 +896,17 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[Pourquoi j’ai choisis d’intègrer une startup]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/04/21/pourquoi-jai-choisis-dintegrer-une-startup/"/>
     <updated>2014-04-21T17:48:51+02:00</updated>
     <id>http://philippetring.fr/blog/2014/04/21/pourquoi-jai-choisis-dintegrer-une-startup</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/startup-or-corporate.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/04/21/pourquoi-jai-choisis-dintegrer-une-startup/"/>
+    <updated>2014-04-21T17:48:51+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/04/21/pourquoi-jai-choisis-dintegrer-une-startup</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/startup-or-corporate.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Il y&#8217;a de cela 4 mois j&#8217;int&eacute;grais l&#8217;&eacute;quipe de <a href="http://chictypes.com/">Chictypes</a>, une startup dont l&#8217;aventure a commenc&eacute;e un an de cela. Laissez moi partager avec vous pourquoi je recommencerais sans h&eacute;siter.<br /><br />
 <!-- more -->   
@@ -772,10 +918,17 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[Pourquoi j’ai choisi d’intègrer une startup]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/04/21/pourquoi-jai-choisi-dintegrer-une-startup/"/>
     <updated>2014-04-21T17:48:51+02:00</updated>
     <id>http://philippetring.fr/blog/2014/04/21/pourquoi-jai-choisi-dintegrer-une-startup</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/startup-or-corporate.jpg"></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/04/21/pourquoi-jai-choisi-dintegrer-une-startup/"/>
+    <updated>2014-04-21T17:48:51+02:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/04/21/pourquoi-jai-choisi-dintegrer-une-startup</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Gnirt.github.io/images/startup-or-corporate.jpg"></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <p>Il y&#8217;a de cela 4 mois j&#8217;int&eacute;grais l&#8217;&eacute;quipe de <a href="http://chictypes.com/">Chictypes</a>, une startup dont l&#8217;aventure a commenc&eacute;e un an de cela. Laissez moi partager avec vous pourquoi je recommencerais sans h&eacute;siter.<br /><br />
 <!-- more -->   
@@ -787,9 +940,15 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[Comment j’ai commmencer Ruby et Rails de zéro?]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero/"/>
     <updated>2014-03-26T09:48:37+01:00</updated>
     <id>http://philippetring.fr/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero</id>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero/"/>
+    <updated>2014-03-26T09:48:37+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
     <content type="html"><![CDATA[<p>J&#8217;ai fais la d&eacute;couverte de Ruby a la fin d&#8217;ann&eacute;e 2013, suite aux nombreux avis de la communaut&eacute; Ruby (Rencontre &agrave; Paris.rb, diff&eacute;rents d&eacute;veloppeurs rencontr&eacute;s inopin&eacute;ment). Ayant seulement fait du d&eacute;veloppement web sur du php auparavant. J&#8217;ai voulu m&#8217;essayer &agrave; un langage de programmation orient&eacute;e objet. J&rsquo;avais donc (beaucoup?) entendu parler de Ruby, j&rsquo;ai commenc&eacute; &agrave; regarder &agrave; quoi &ccedil;a ressemblait.
 <!-- more -->
 <br /><br />Ressources ruby :<br /><br />J&#8217;ai commencer avec <a href="http://rubymonk.com">Ruby Monk</a> ce site permet d&rsquo;apprendre les bases de Ruby sans aucune installation sur son ordinateur sous forme de le&ccedil;on.<br /><br />Les autres ressources qui on aussi bonne r&eacute;putation :<br /><br /><a href="http://tryruby.org">Try Ruby</a><br /><a href="http://www.rubykoans.com">Ruby Koans</a><br /><a href="http://ruby.learncodethehardway.org">Learn code the hard way </a><br /><br />R&eacute;f&eacute;rence sp&eacute;cial pour <a href="https://www.bloc.io/ruby-warrior"> Ruby Warrior</a> qui permet d&#8217;apprendre le ruby sous la forme d&#8217;un jeu (en plus le design en pixel art est magnifique !)<br /><br />Ensuite rails :<br /><br />J&#8217;ai pour ma part commencer avec <a href="http://railstutorial.org/"> Rails Tutorial </a> qui vous fait coder une version basique de l&#8217;application Twitter. Au passage en plus de vous apprendre rails et il vous apprend toute la partie d&eacute;ploiement de l&#8217;application ! (Git, Heroku..)<br /><br />Mais aussi :</p>
@@ -806,10 +965,17 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[20 conseils pour mieux réussir vos recherches sur google (Partie 2)]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/"/>
     <updated>2014-02-19T09:32:25+01:00</updated>
     <id>http://philippetring.fr/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2</id>
     <content type="html"><![CDATA[<p>Aujourd&#8217;hui je partage avec vous 10 autres tips pour faire des recherches plus efficaces sur Google (ou comme j&#8217;aime l&#8217;appeler l&#8217;Oracle) ! Vous pouvez retrouver la première partie <a href="http://philippetring.fr/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/">ici<br /></a></p>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/"/>
+    <updated>2014-02-19T09:32:25+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2</id>
+    <content type="html"><![CDATA[<p>Aujourd&#8217;hui je partage avec vous 10 autres tips pour faire des recherches plus efficaces sur Google (ou comme j&#8217;aime l&#8217;appeler l&#8217;Oracle) ! Vous pouvez retrouver la première partie <a href="http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/">ici<br /></a></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 
 <!-- more -->
@@ -853,9 +1019,15 @@ Pourtant la solitude est l&#8217;environnement le plus propice pour&hellip;<br> 
   <entry>
     <title type="html"><![CDATA[20 tips pour mieux réussir vos recherches sur google (Partie 1)]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/"/>
     <updated>2014-01-29T10:37:01+01:00</updated>
     <id>http://philippetring.fr/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1</id>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/"/>
+    <updated>2014-01-29T10:37:01+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
     <content type="html"><![CDATA[<p>Aujourd’hui je partage avec vous 10 tips pour faire des recherches plus efficaces sur Google (ou comme j’aime l’appeler l’Oracle) !</p>
 
 <!-- more -->
@@ -909,16 +1081,26 @@ Pour concentrer votre recherche sur un site unique utilisez le mot “site:”</
 </ul>
 
 
+<<<<<<< HEAD
 <p>Pour la seconde partie c&#8217;est par <a href="http://philippetring.fr/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/">ici</a></p>
+=======
+<p>Pour la seconde partie c&#8217;est par <a href="http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/">ici</a></p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hacker le processus de recrutement]]></title>
     <summary><![CDATA[]]></summary>
+<<<<<<< HEAD
     <link href="http://philippetring.fr/blog/2014/01/10/hacker-le-processus-de-recrutement/"/>
     <updated>2014-01-10T20:29:20+01:00</updated>
     <id>http://philippetring.fr/blog/2014/01/10/hacker-le-processus-de-recrutement</id>
+=======
+    <link href="http://Gnirt.github.io/blog/2014/01/10/hacker-le-processus-de-recrutement/"/>
+    <updated>2014-01-10T20:29:20+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/01/10/hacker-le-processus-de-recrutement</id>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
     <content type="html"><![CDATA[<p>Plein d’entrain et d’espoir vous avez envoyé 1001 lettres de motivations et CV. Mais aucune ne vous a répondu, car vous n’avez <strong>aucune expérience</strong> professionnelle dans le domaine.</p>
 
 <!-- more -->
@@ -940,7 +1122,11 @@ Pour concentrer votre recherche sur un site unique utilisez le mot “site:”</
 
 <p>Bonne année 2014, en vous souhaitant pleins de jolies rencontres, Philippe.</p>
 
+<<<<<<< HEAD
 <p>Bonus, une liste non exhaustive de sites qui organisent ces meetings (N’hésitez pas à m’envoyer vos sites <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#58;&#112;&#104;&#x69;&#x6c;&#105;&#112;&#112;&#101;&#x74;&#114;&#105;&#110;&#103;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#112;&#104;&#x69;&#108;&#105;&#x70;&#x70;&#101;&#116;&#x72;&#x69;&#x6e;&#x67;&#x40;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a>)</p>
+=======
+<p>Bonus, une liste non exhaustive de sites qui organisent ces meetings (N’hésitez pas à m’envoyer vos sites <a href="&#109;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#x70;&#x68;&#105;&#x6c;&#105;&#112;&#x70;&#x65;&#x74;&#x72;&#105;&#x6e;&#x67;&#x40;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#x6f;&#x6d;">&#x70;&#x68;&#x69;&#108;&#x69;&#x70;&#112;&#101;&#x74;&#x72;&#x69;&#110;&#x67;&#x40;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#x63;&#111;&#109;</a>)</p>
+>>>>>>> 8716b46728a588f84c4b0a8960de5bc887f57f92
 
 <ul>
 <li><a href="http://www.meetup.com/">http://www.meetup.com/</a></li>
