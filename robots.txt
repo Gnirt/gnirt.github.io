@@ -1,8 +1,4 @@
 User-agent: *
 Disallow: 
 
-<<<<<<< HEAD
 Sitemap: http://Gnirt.github.io/sitemap.xml 
-=======
-Sitemap: http://philippetring.fr/sitemap.xml 
->>>>>>> 60e8dddb2107bf8a98e95a4c2fc1aaec78719214
