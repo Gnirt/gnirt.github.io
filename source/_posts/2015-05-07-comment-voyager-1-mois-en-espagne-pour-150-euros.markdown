@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Comment voyager 1 mois en Espagne pour 150 euros"
+date: 2015-05-07 23:34:59 +0200
+comments: true
+categories:
+- Spain
+- Espagne
+---
+{% img center /images/150-euros-for-1-month-in-spain.jpg %}
+
+Cet été direction l'Espagne, parcourir le fameux <a href="http://fr.wikipedia.org/wiki/P%C3%A8lerinage_de_Saint-Jacques-de-Compostelle" target="_blank">pèlerinage de Saint-Jacques-de-Compostelle</a> ! Bon moment pour tester sur le terrain mon Espagnol que j'exerce tous les jours sur <a href="https://www.duolingo.com/iamGnirt" target="_blank">Duolingo</a> depuis 257 jours. 1 mois d'escapade, le tout pour un budget minimal : 150 euros.
+
+<!-- more -->
+
+# 3 types de dépenses pour un voyage
+
+1. Transport
+* Logement
+* Alimentation
+
+# Transport : 0 euro
+
+Pour les transports faciles, je vais utiliser en majorité mes petits pieds avec mes super sandales Earth Runners pour ceux qui ne me connaissent pas je me promène constamment en tongs. Je vais aussi en profiter pour essayer la marche "Namba Aruki", qui est la marche pratiquée par les messagers durant la période Edo(1603-1868). D'après ce que j'ai lu, qu’ils pouvaient faire jusqu’à 480km en 6-8 jours !
+
+Bon, la totalité de la route de Compostelle ça va quand même être compliqué il y'a quand même 1500 km entre les deux et j'ai que un mois ! Je démarrerais mon périple à pied à la frontière espagnole aux environs d’Irún. Soit un peu plus de la moitié (750km envieront pour atteindre Compostelle). Donc, comment aller jusqu'en Espagne ? Auto-stop ! Ca sera ma première fois en auto-stop.
+
+D'autres alternatives pas chères que j'ai étudié, mais qui me paraissent moins fun. (J'éditerais peut-être ça si je ne trouve pas de voiture pour me conduire dans le sud !).
+
+* Vélo (0 euro ou le prix d'un vélo), mais je serais trop tenté de faire tout le reste de Compostelle en vélo ! Pour le prix j'avais acheté un vélo à 3 vitesses sur leboncoin qui m'a emmené en aller-retour de Paris à Londres pour 100 euros (par contre, je déconseille de prendre 3 vitesses c'était parfois une sacrée épreuve)
+* Mégabus (26 euros), des bus allant un peu partout en Europe pour vraiment pas chère !
+* Blablacar (40-70 euros), chouette moyen de se déplacer !
+* Train (80-120 euros)
+* Avion (même pas réussi à trouver un prix)
+* Voler un scoot (finir en prison ou avoir mauvaise conscience), j'ai hésité...
+
+# Logement : 0 euros
+
+On ne change pas une équipe qui gagne, je prendrais donc mon hamac et ferais du camping sauvage. Pourquoi se contenter d'un 5 étoiles quand on en a une infinité au-dessus de la tête? Le plus compliqué c'est surtout de trouver des douches... Le courage de demander des douches plus exactement !
+
+Sinon Couchsurfing, ça marche bien !
+
+# Alimentation : 150 euros
+
+J'ai pris ma référence avec <a href="http://www.numbeo.com/food-prices/country_result.jsp?country=Spain" target="_blank">google</a> sur le prix de la nourriture. Là pas de recette miracle quoi que... j'ai mis 5 euros mais je pense que j'en aurais pour moins en réalité. Mon secret ? Je partage ma recette pour manger et avoir assez de carburant pour marcher 7 heures par jours.
+
+* Eau
+* Flocons d'avoine
+* Fruits secs
+
+Bonus : Noix/Cacahuètes si possible sans sel, miels, chocolats, laits, fruits (Banane coupée, miam), Bouts de pain, votre imagination.
+
+Une recette dont je ne me lasse pas qui dure des jours et des jours avec des variations incroyables. Le tout sans réchaud, léger (porter 1 kg en plus dans le dos toute la journée, je suis trop flemmard pour ça). Je l'ai reprise d'un blog de cyclo tourisme. C'est super efficace !
+
+Sinon un simple paquet de céréales c'est bien aussi.
+
+J'avais écrit une partie appréhensions/questions que l'on me pose souvent, mais ça commence à être long. Si vous avez des questions, n'hésitez pas ! Aimeriez-vous plus d’articles sur le voyage? 150 euros, irréalisable?
+
+~~~
+
+La photo est une route que je trouvais jolie en Angleterre, ce que j'adore avec les routes c'est qu'elles peuvent mener n'importe où. La route que l'on prend le matin en sortant de chez soi pour aller au travail peut aussi mener... En Afrique, en Amérique, en Asie, où vais-je ?
