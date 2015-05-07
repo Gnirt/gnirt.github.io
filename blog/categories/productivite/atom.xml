@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Productivité | Tring Philippe Blog]]></title>
+  <link href="http://Gnirt.github.io/blog/categories/productivite/atom.xml" rel="self"/>
+  <link href="http://Gnirt.github.io/"/>
+  <updated>2015-05-08T01:35:57+02:00</updated>
+  <id>http://Gnirt.github.io/</id>
+  <author>
+    <name><![CDATA[Philippe Tring]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[20 Conseils Pour Mieux Réussir Vos Recherches Sur Google (Partie 2)]]></title>
+    <link href="http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/"/>
+    <updated>2014-02-19T09:32:25+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2</id>
+    <content type="html"><![CDATA[<p>Aujourd'hui je partage avec vous 10 autres tips pour faire des recherches plus efficaces sur Google (ou comme j'aime l'appeler l'Oracle) ! Vous pouvez retrouver la première partie <a href="http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/">ici<br /></a></p>
+
+
+<!-- more -->
+
+
+<ol>
+<li>Lien<br />Le symbole "link:" trouveras les pages contenant un lien vers une URL<br /><br /><em>ex : </em>link: philippetring.fr<br /><br /></li>
+<li>Recherche Vertical<br />Plutot que de faire une recherche &agrave; travers tout le web, google met a notre disposition plusieurs moteurs plus sp&eacute;cifique.<br /><br />
+<ul>
+<li><em>http://blogsearch.google.com/</em> </li>
+<li><em>http://books.google.com/</em></li>
+<li><em>http://scholar.google.com/</em></li>
+<li><em>http://catalogs.google.com/</em></li>
+<li><em>http://www.google.com/codesearch</em></li>
+<li><em>http://www.google.com/dirhp</em></li>
+<li><em>http://finance.google.com/finance</em></li>
+<li><em>http://images.google.com/</em></li>
+<li><em>http://maps.google.com/maps</em></li>
+<li><em>http://news.google.com/</em></li>
+<li><em>http://www.google.com/patents</em></li>
+<li><em>http://www.google.com/products</em></li>
+<li><em>http://video.google.com/<br /><br /></em></li>
+</ul>
+</li>
+<li>Films<br />"Film:" permet de lister les cin&eacute;mas les plus proches&nbsp;et les horaires si il est suivi d'un code postal, d'une ville etc..<br /><br /></li>
+<li>Musique<br />Musique: pour le contenu relatif a de la musique<br /><br /></li>
+<li>Conversion d'unit&eacute;<br />Unit&eacute; de distance, de monnaie<br /><br /><em>ex :</em> 12 meters in miles<br /><br /></li>
+<li>Nombre particulier<br />Dates, code postaux, num&eacute;ro de t&eacute;l&eacute;phone, Google reconnait diff&eacute;rents pattern.<br /><br /></li>
+<li>Type de fichier<br />"filetype:" pour lister uniquement les fichiers d'un type (pdf, word, etc..)<br /><br /></li>
+<li>Recherche sur tag<br />Si vous souhaitez baser votre recherche sur le contenu html vous pouvez utiliser : "inurl:", "intitle:", "intext:", and "inanchor:"<br /><br /></li>
+<li>Cache<br />Cette fonctionnalit&eacute;e peu connue permet de faire une recherche sur le cache de google (donc retrouver des pages possiblement supprim&eacute;es)<br /><br /></li>
+<li>Answer to life, the universe, and everything<br />L'oracle vous r&eacute;pondras.</li>
+</ol>
+
+
+<p>Sources : <br /><a href="http://www.googleguide.com/using_advanced_operators.html">http://www.googleguide.com/using_advanced_operators.html<br /></a><a href="http://sudarmuthu.com/blog/google-search-syntax-dissected">http://sudarmuthu.com/blog/google-search-syntax-dissected</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[20 Tips Pour Mieux Réussir Vos Recherches Sur Google (Partie 1)]]></title>
+    <link href="http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1/"/>
+    <updated>2014-01-29T10:37:01+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/01/29/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-1</id>
+    <content type="html"><![CDATA[<p>Aujourd’hui je partage avec vous 10 tips pour faire des recherches plus efficaces sur Google (ou comme j’aime l’appeler l’Oracle) !</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>OU (OR)
+Google fait normalement une recherche sur l’ensemble des mots clés que vous lui fournissez. Néanmoins en utilisant le symbole “|” ( Pipe ) il est possible de demander a faire une recherche sur un mot ou un autre voir les deux.</p>
+
+<p>  ex : blog | philippe | tring</p></li>
+<li><p>Guillemets
+Si vous recherchez une phrase exact, utilisez des guillemets.</p>
+
+<p>  ex : “blog philippe tring” ou blog “philippe tring” rechercheras le mot blog ainsi que la suite de mots “philippe tring”</p></li>
+<li><p>NON (NOT)
+Si vous souhaitez que google ne prenne pas en compte les pages ayant certains mots, précédais les d’un tiret “-“</p>
+
+<p>  ex : -blog philippe tring</p></li>
+<li><p>Mots similaires
+En utilisant le tilde “~” vous ferez une recherche sur des mots ayant la même signification.</p>
+
+<p>  ex : ~bonheur philippe tring</p></li>
+<li><p>Wildcard
+Le symbole “*” fait office de joker. Il remplace n’importe quel mots très utile si vous recherchez les paroles d’une chanson.</p>
+
+<p>  ex : “We all live in a * submarine” vous retournera les paroles de la chanson des Beatles</p></li>
+<li><p>Definition
+Pour avoir une définition d’un mot précédais le de “definition:” ou “define:”</p>
+
+<p>  ex : define:bonheur</p></li>
+<li><p>Google recherche avancée
+Si vous n’arrivez pas a vous rappeler de tout ses mots vous pouvez utiliser l’outil de recherche avancée de google <a href="http://www.google.com/advanced_search">http://www.google.com/advanced_search</a></p></li>
+<li><p>Calculatrice
+Vous pouvez vous servir de google comme d’une calculatrice</p></li>
+<li><p>Intervalle de nombre
+Cette fonctionnalitée peu connue permet de faire une recherche sur un intervalle de nombre</p>
+
+<p>  ex : 1992..2014 nobel</p></li>
+<li><p>Site spécifique
+Pour concentrer votre recherche sur un site unique utilisez le mot “site:”</p>
+
+<p>  ex : site:philippetring.fr blog</p></li>
+</ol>
+
+
+<p>Sources :</p>
+
+<ul>
+<li><a href="http://www.googleguide.com/using_advanced_operators.html">http://www.googleguide.com/using_advanced_operators.html</a></li>
+<li><a href="http://sudarmuthu.com/blog/google-search-syntax-dissected">http://sudarmuthu.com/blog/google-search-syntax-dissected</a></li>
+</ul>
+
+
+<p>Pour la seconde partie c'est par <a href="/blog/2014/02/19/20-tips-pour-mieux-reussir-vos-recherches-sur-google-partie-2/">ici</a></p>
+]]></content>
+  </entry>
+  
+</feed>

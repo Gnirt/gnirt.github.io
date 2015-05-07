@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Development | Tring Philippe Blog]]></title>
+  <link href="http://Gnirt.github.io/blog/categories/development/atom.xml" rel="self"/>
+  <link href="http://Gnirt.github.io/"/>
+  <updated>2015-05-08T01:35:57+02:00</updated>
+  <id>http://Gnirt.github.io/</id>
+  <author>
+    <name><![CDATA[Philippe Tring]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[10 Commandements Pour Programmer Sans Ego]]></title>
+    <link href="http://Gnirt.github.io/blog/2015/03/04/commandements-pour-programmer-sans-ego/"/>
+    <updated>2015-03-04T08:59:49+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2015/03/04/commandements-pour-programmer-sans-ego</id>
+    <content type="html"><![CDATA[<p>Si il y'a bien une chose qui me freine constamment c'est bien ma fierté. Lors de débats, de relations, mais aussi lorsqu'il s'agit d'apprendre.</p>
+
+<p>Il y’a quelques mois de cela j’ai eu l’occasion de faire une présentation à <a href="http://rubyparis.org/">ParisRuby</a> sur les 10 commandements pour programmer sans ego. (Un souhait de ma <a href="/life-list">life list</a> en plus de barré !)</p>
+
+<div class="iframe-responsive-wrapper">
+    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
+    <iframe src="//www.youtube.com/embed/eDfWDKzZ3X4" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+
+
+
+<!-- more -->
+
+
+<h1>Les slides</h1>
+
+<div class="iframe-responsive-wrapper">
+    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
+    <iframe src="http://philippetring.fr/egoless-presentation" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+
+<p><a href="/egoless-presentation">http://philippetring.fr/egoless-presentation</a></p>
+
+<h1>Version écrite</h1>
+
+<p>Pour ceux qui préfèrent une version écrite je vous redirige vers l'excellent blog de Jeff Atwood, fondateur de Stackoverflow. <a href="http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/">Ten commandments of egoless programming</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Comment J’ai Commmencer Ruby Et Rails De Zéro?]]></title>
+    <link href="http://Gnirt.github.io/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero/"/>
+    <updated>2014-03-26T09:48:37+01:00</updated>
+    <id>http://Gnirt.github.io/blog/2014/03/26/comment-jai-commmencer-ruby-et-rails-de-zero</id>
+    <content type="html"><![CDATA[<p>J'ai fais la d&eacute;couverte de Ruby a la fin d'ann&eacute;e 2013, suite aux nombreux avis de la communaut&eacute; Ruby (Rencontre &agrave; Paris.rb, diff&eacute;rents d&eacute;veloppeurs rencontr&eacute;s inopin&eacute;ment). Ayant seulement fait du d&eacute;veloppement web sur du php auparavant. J'ai voulu m'essayer &agrave; un langage de programmation orient&eacute;e objet. J&rsquo;avais donc (beaucoup?) entendu parler de Ruby, j&rsquo;ai commenc&eacute; &agrave; regarder &agrave; quoi &ccedil;a ressemblait.
+<!-- more -->
+<br /><br />Ressources ruby :<br /><br />J'ai commencer avec <a href="http://rubymonk.com">Ruby Monk</a> ce site permet d&rsquo;apprendre les bases de Ruby sans aucune installation sur son ordinateur sous forme de le&ccedil;on.<br /><br />Les autres ressources qui on aussi bonne r&eacute;putation :<br /><br /><a href="http://tryruby.org">Try Ruby</a><br /><a href="http://www.rubykoans.com">Ruby Koans</a><br /><a href="http://ruby.learncodethehardway.org">Learn code the hard way </a><br /><br />R&eacute;f&eacute;rence sp&eacute;cial pour <a href="https://www.bloc.io/ruby-warrior"> Ruby Warrior</a> qui permet d'apprendre le ruby sous la forme d'un jeu (en plus le design en pixel art est magnifique !)<br /><br />Ensuite rails :<br /><br />J'ai pour ma part commencer avec <a href="http://railstutorial.org/"> Rails Tutorial </a> qui vous fait coder une version basique de l'application Twitter. Au passage en plus de vous apprendre rails et il vous apprend toute la partie d&eacute;ploiement de l'application ! (Git, Heroku..)<br /><br />Mais aussi :</p>
+
+
+<p><a href="http://railsforzombies.org/">Rails for Zombies</a> pour apprendre de fa&ccedil;on ludique !<br /><a href="http://guides.rubyonrails.org/"> </a> les guides officielles<br /><a href="http://railscasts.com/">Rails Casts</a> qui propose des vid&eacute;os succinctes sur des sujets en particulier</p>
+
+
+<p><a href="http://rubygems.org">Ruby Gems</a> pour toutes les gems<br /><a href="https://www.ruby-toolbox.com/">Ruby Toolbox</a> pour toutes les gems<br /><br />et beaucoup de stackoverflow :)<br /><br />Pour les curieux vous pouvez voir mon application <a href="https://sheltered-everglades-2986.herokuapp.com/" target="_blank">ici</a><br /><br />Philippe</p>
+
+]]></content>
+  </entry>
+  
+</feed>
