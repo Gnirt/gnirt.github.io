@@ -3,8 +3,8 @@ layout: post
 title: "Uk bike roadtrip photo gallery"
 date: 2014-09-28 21:41:49 +0200
 comments: true
-categories: 
-- united kingdoma
+categories:
+- draft
 ---
 > "The very basic core of a man's living spirit is his passion for adventure." - [Christopher McCandless](http://en.wikipedia.org/wiki/Christopher_McCandless)
 
@@ -34,11 +34,11 @@ Some pictures took from my bike trip from Paris to UK. You can click on the imag
 /images/uk_roadtrip_2014/IMG_0045.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0045.jpg]: First Costa cup (Mocha latte i miss you !). Planning my road !
 /images/uk_roadtrip_2014/IMG_0047.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0047.jpg]: One day i'll have one !
 /images/uk_roadtrip_2014/IMG_0048.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0048.jpg]: My favorite teammates ! Thnaks for this awesome afternoon guys
-/images/uk_roadtrip_2014/IMG_0049.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0049.jpg]: 
+/images/uk_roadtrip_2014/IMG_0049.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0049.jpg]:
 /images/uk_roadtrip_2014/IMG_0050.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0050.jpg]: Learning some Bowl
 /images/uk_roadtrip_2014/IMG_0051.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0051.jpg]: I know some of you love cats
-/images/uk_roadtrip_2014/IMG_0054.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0054.jpg]: 
-/images/uk_roadtrip_2014/IMG_0056.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0056.jpg]: 
+/images/uk_roadtrip_2014/IMG_0054.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0054.jpg]:
+/images/uk_roadtrip_2014/IMG_0056.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0056.jpg]:
 /images/uk_roadtrip_2014/IMG_0057.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0057.jpg]: Thanks for the tour :)
 /images/uk_roadtrip_2014/IMG_0058.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0058.jpg]: Sneaked in a private property HUAHUAHUA
 /images/uk_roadtrip_2014/IMG_0059.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0059.jpg]: Amsterdam, i'll come !
@@ -47,67 +47,67 @@ Some pictures took from my bike trip from Paris to UK. You can click on the imag
 /images/uk_roadtrip_2014/IMG_0062.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0062.jpg]: Thanks for the shower huhu
 /images/uk_roadtrip_2014/IMG_0063.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0063.jpg]: Hope you made it into your plane !
 /images/uk_roadtrip_2014/IMG_0065.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0065.jpg]: Random dancing & singing in the park, THAT WAS AWESOME (But you girls are freak honestly !)
-/images/uk_roadtrip_2014/IMG_0066.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0066.jpg]: 
+/images/uk_roadtrip_2014/IMG_0066.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0066.jpg]:
 /images/uk_roadtrip_2014/IMG_0067.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0067.jpg]: Big breakfast !
 /images/uk_roadtrip_2014/IMG_0068.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0068.jpg]: London !
 /images/uk_roadtrip_2014/IMG_0069.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0069.jpg]: My hommie from belushi's hammersmith
-/images/uk_roadtrip_2014/IMG_0070.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0070.jpg]: 
+/images/uk_roadtrip_2014/IMG_0070.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0070.jpg]:
 /images/uk_roadtrip_2014/IMG_0071.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0071.jpg]: I stole his bed.
 /images/uk_roadtrip_2014/IMG_0072.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0072.jpg]: How is your journey back to Australia ?
 /images/uk_roadtrip_2014/IMG_0073.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0073.jpg]: FINALLY A BED (well i actually did miss my hammock when i got into that bed)
 /images/uk_roadtrip_2014/IMG_0078.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0078.jpg]: Barbershop time !
-/images/uk_roadtrip_2014/IMG_0080.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0080.jpg]: Yummy 
-/images/uk_roadtrip_2014/IMG_0081.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0081.jpg]: 
+/images/uk_roadtrip_2014/IMG_0080.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0080.jpg]: Yummy
+/images/uk_roadtrip_2014/IMG_0081.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0081.jpg]:
 /images/uk_roadtrip_2014/IMG_0082.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0082.jpg]: London bridge (Well, I had to cross it)
 /images/uk_roadtrip_2014/IMG_0083.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0083.jpg]: Wish i could live into that train !
 /images/uk_roadtrip_2014/IMG_0084.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0084.jpg]: PARTY ROCK
 /images/uk_roadtrip_2014/IMG_0085.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0085.jpg]: Sunday is bike day !
-/images/uk_roadtrip_2014/IMG_0086.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0086.jpg]: 
-/images/uk_roadtrip_2014/IMG_0087.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0087.jpg]: 
+/images/uk_roadtrip_2014/IMG_0086.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0086.jpg]:
+/images/uk_roadtrip_2014/IMG_0087.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0087.jpg]:
 /images/uk_roadtrip_2014/IMG_0088.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0088.jpg]: Had to get one Fish & Chips !
 /images/uk_roadtrip_2014/IMG_0089.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0089.jpg]: AND IT WAS AWESOME
 /images/uk_roadtrip_2014/IMG_0090.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0090.jpg]: Bye London
 /images/uk_roadtrip_2014/IMG_0091.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0091.jpg]: South west here I come !
-/images/uk_roadtrip_2014/IMG_0092.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0092.jpg]: 
+/images/uk_roadtrip_2014/IMG_0092.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0092.jpg]:
 /images/uk_roadtrip_2014/IMG_0093.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0093.jpg]: I don't agree at ALL (trying to be ironic there...)
-/images/uk_roadtrip_2014/IMG_0095.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0095.jpg]: 
+/images/uk_roadtrip_2014/IMG_0095.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0095.jpg]:
 /images/uk_roadtrip_2014/IMG_0097.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0097.jpg]: Thanks for the pizza guys <3
-/images/uk_roadtrip_2014/IMG_0098.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0098.jpg]: 
+/images/uk_roadtrip_2014/IMG_0098.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0098.jpg]:
 /images/uk_roadtrip_2014/IMG_0100.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0100.jpg]: I really wanted to get inside !
-/images/uk_roadtrip_2014/IMG_0101.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0101.jpg]: 
+/images/uk_roadtrip_2014/IMG_0101.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0101.jpg]:
 /images/uk_roadtrip_2014/IMG_0102.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0102.jpg]: Need to read that !
 /images/uk_roadtrip_2014/IMG_0108.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0108.jpg]: And re read that !
 /images/uk_roadtrip_2014/IMG_0109.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0109.jpg]: One night later
 /images/uk_roadtrip_2014/IMG_0110.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0110.jpg]: Two night later
 /images/uk_roadtrip_2014/IMG_0111.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0111.jpg]: Gorgeous landscape to see while in my hammock sleep
-/images/uk_roadtrip_2014/IMG_0112.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0112.jpg]: 
+/images/uk_roadtrip_2014/IMG_0112.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0112.jpg]:
 /images/uk_roadtrip_2014/IMG_0113.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0113.jpg]: Retrying to be creative
 /images/uk_roadtrip_2014/IMG_0114.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0114.jpg]: DONUTS TIMEEEEEEEEEEEE
-/images/uk_roadtrip_2014/IMG_0116.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0116.jpg]: 
+/images/uk_roadtrip_2014/IMG_0116.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0116.jpg]:
 /images/uk_roadtrip_2014/IMG_0119.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0119.jpg]: Bad night in a park ! I was very afraid of the guardian/watcher catching me...
 /images/uk_roadtrip_2014/IMG_0120.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0120.jpg]: Following the sea
-/images/uk_roadtrip_2014/IMG_0121.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0121.jpg]: 
-/images/uk_roadtrip_2014/IMG_0122.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0122.jpg]: 
-/images/uk_roadtrip_2014/IMG_0123.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0123.jpg]: 
-/images/uk_roadtrip_2014/IMG_0124.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0124.jpg]: 
+/images/uk_roadtrip_2014/IMG_0121.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0121.jpg]:
+/images/uk_roadtrip_2014/IMG_0122.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0122.jpg]:
+/images/uk_roadtrip_2014/IMG_0123.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0123.jpg]:
+/images/uk_roadtrip_2014/IMG_0124.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0124.jpg]:
 /images/uk_roadtrip_2014/IMG_0125.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0125.jpg]: I'm still a geek !
 /images/uk_roadtrip_2014/IMG_0127.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0127.jpg]: Behind a garden !
-/images/uk_roadtrip_2014/IMG_0128.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0128.jpg]: 
-/images/uk_roadtrip_2014/IMG_0129.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0129.jpg]: 
+/images/uk_roadtrip_2014/IMG_0128.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0128.jpg]:
+/images/uk_roadtrip_2014/IMG_0129.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0129.jpg]:
 /images/uk_roadtrip_2014/IMG_0130.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0130.jpg]: Dad and Mum !
 /images/uk_roadtrip_2014/IMG_0131.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0131.jpg]: Mum feeling like putting my hammock on top of the sea
-/images/uk_roadtrip_2014/IMG_0132.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0132.jpg]: 
-/images/uk_roadtrip_2014/IMG_0133.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0133.jpg]: 
+/images/uk_roadtrip_2014/IMG_0132.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0132.jpg]:
+/images/uk_roadtrip_2014/IMG_0133.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0133.jpg]:
 /images/uk_roadtrip_2014/IMG_0134.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0134.jpg]: Honestly... I was so afraid to fall in the water HAHA
-/images/uk_roadtrip_2014/IMG_0135.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0135.jpg]: 
-/images/uk_roadtrip_2014/IMG_0136.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0136.jpg]: 
+/images/uk_roadtrip_2014/IMG_0135.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0135.jpg]:
+/images/uk_roadtrip_2014/IMG_0136.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0136.jpg]:
 /images/uk_roadtrip_2014/IMG_0137.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0137.jpg]: I did yell like a chicken.
-/images/uk_roadtrip_2014/IMG_0138.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0138.jpg]: 
-/images/uk_roadtrip_2014/IMG_0139.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0139.jpg]: 
-/images/uk_roadtrip_2014/IMG_0140.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0140.jpg]: 
-/images/uk_roadtrip_2014/IMG_0141.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0141.jpg]: 
-/images/uk_roadtrip_2014/IMG_0142.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0142.jpg]: 
+/images/uk_roadtrip_2014/IMG_0138.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0138.jpg]:
+/images/uk_roadtrip_2014/IMG_0139.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0139.jpg]:
+/images/uk_roadtrip_2014/IMG_0140.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0140.jpg]:
+/images/uk_roadtrip_2014/IMG_0141.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0141.jpg]:
+/images/uk_roadtrip_2014/IMG_0142.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0142.jpg]:
 /images/uk_roadtrip_2014/IMG_0143.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0143.jpg]: Nap time !
-/images/uk_roadtrip_2014/IMG_0145.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0145.jpg]: 
+/images/uk_roadtrip_2014/IMG_0145.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0145.jpg]:
 /images/uk_roadtrip_2014/IMG_0148.jpg[/images/uk_roadtrip_2014/thumbs/IMG_0148.jpg]:
 {% endgallery %}
