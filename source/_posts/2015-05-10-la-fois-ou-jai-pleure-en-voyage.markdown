@@ -10,7 +10,7 @@ categories:
 
 Voyager seul est devenu mon option par défaut pour voyager. J’aime être libre et ne pas dépendre de quelqu’un d’autre. Cela a l’air facile de prendre son sac et partir à l’aventure, mais saviez-vous que j’ai pleuré la première fois que je suis parti seul en Inde?
 
-<!— more —>
+<!-- more -->
 
 En 2013, je partais pour l’Inde, j’ai rencontré Brett mon correspondant dans le train vers CDG. Durant mon trajet en avion, je lisais le routard sur l’Inde surtout le passage à propos des innombrables arnaques ayant cours à Delhi. Mon frère devait me rejoindre dans 27 heures plus tard. Ce qui me laisser 27 heures livré à moi même. J’avais décidé de ne pas prendre de taxi à la sortie de l’aéroport voulant visiter la ville et aimant marcher. C’était sans compter sans les multiples abordages dont je ferais l’épreuve une fois sortie. Mon sac à dos de 60L n’aidant pas à ne pas être repéré je ne pouvais pas marcher sans qu’un Indien viennent à moi me demandant ou j’allais, je commençais par les ignorer. Puis finis par parler à l’un d’entre eux en anglais lui disant que je me rends à l’office du tourisme. Il me propose de m’emmener en Tuk tuk gratuitement, un moyen de locomotion populaire chez eux. Je finis par accepter.
 
