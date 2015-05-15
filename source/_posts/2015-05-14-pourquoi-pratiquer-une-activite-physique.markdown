@@ -10,6 +10,8 @@ categories:
 
 Il y’a 2 ans de cela, je démarrais une activité physique dans le but de retrouver une santé disparue après 20 ans assis devant un écran !
 
+> To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear. - Bouddha
+
 <!-- more -->
 
 # Pourquoi faire une activité physique ?
