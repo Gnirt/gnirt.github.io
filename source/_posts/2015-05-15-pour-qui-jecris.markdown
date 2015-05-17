@@ -10,6 +10,8 @@ categories:
 
 15 jours que j’écris, parmi les articles il y’en a que j’aime, mais surtout beaucoup que je n’aime pas ou trouve ennuyeux. Je dirais que la proportion est de 20/80. Hola, [loi de Pareto](http://fr.wikipedia.org/wiki/Principe_de_Pareto) ! Peu importe, à l’heure actuelle je me concentre sur créer un automatisme. Néanmoins, je commence à trouver un pattern, mon gabarit dans l’écriture.
 
+<!-- more -->
+
 Une introduction peut parler de tout et de rien, mais doit donner le thème, les grandes lignes de mon article, même si je finis tout le temps par dériver !
 
 Vient ensuite le corps du texte, il ne faut pas qu’il soit trop long, non adapté au web. Une des idées d’amélioration de mon blog serait de rajouter un temps de lecture comme sur Medium. La formule serait le nombre de mots divisé par le nombre de mots qu’une personne moyenne lit par minute.
