@@ -1,13 +1,15 @@
 <ul class="main-navigation">
+  <li><a href="{{ root_url }}/a-propos">Qui suis-je?</a></li>
   <li><a href="{{ root_url }}/">Blog</a></li>
-  <li><a href="{{ root_url }}/travel">Travel</a></li>
+  <!-- <li><a href="{{ root_url }}/travel">Travel</a></li> -->
   <li><a href="{{ root_url }}/life-list">Life List</a></li>
-  <li><a href="{{ root_url }}/about">About</a></li>
 </ul>
-{% if site.tapir_token %}
-  <form method="get" action="{{ root_url }}/search.html">
-    <fieldset role="search">
-      <input class="search" name="query" type="text" placeholder="Search..." x-webkit-speech />
-    </fieldset>
-  </form>
+{% if false %}
+  {% if site.tapir_token %}
+    <form method="get" action="{{ root_url }}/search.html">
+      <fieldset role="search">
+        <input class="search" name="query" type="text" placeholder="Search..." x-webkit-speech />
+      </fieldset>
+    </form>
+  {% endif %}
 {% endif %}
