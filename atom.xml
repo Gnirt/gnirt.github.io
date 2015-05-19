@@ -4,7 +4,7 @@
   <title><![CDATA[Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-05-19T08:55:34+02:00</updated>
+  <updated>2015-05-20T00:48:06+02:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le Savoir]]></title>
+    <link href="http://philippetring.fr/blog/2015/05/19/le-savoir/"/>
+    <updated>2015-05-19T23:48:46+02:00</updated>
+    <id>http://philippetring.fr/blog/2015/05/19/le-savoir</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/le-savoir.jpg"></p>
+
+<p>Nous sommes nés avec une mémoire vide. Cette mémoire au fur et à mesure du temps s&#8217;est remplie de souvenirs, d&#8217;expériences et de savoirs. Ce dernier élément est pour moi séparé en 3 grandes parties.</p>
+
+<ol>
+<li>Ce que je sais, que je sais.</li>
+<li>Ce que je sais, que je ne sais pas.</li>
+<li>Ce que je ne sais pas, que je ne sais pas.</li>
+</ol>
+
+
+<!-- more -->
+
+
+<h1>Ce que je sais, que je sais.</h1>
+
+<p>Celui-ci est simple, je sais que je sais marcher, lire le français, programmer. Il regroupe tout ce que nous sommes capables de faire.</p>
+
+<h1>Ce que je sais, que ne sais pas.</h1>
+
+<p>Je sais que je ne sais pas (encore) parler arabe, jouer de la guitare, faire un salto, la cuisine. Il regroupe ma perspective du monde et des possibilités qui me sont connus. Je peux donc quand je le souhaiterais les apprendre (au moment opportun).</p>
+
+<h1>Ce que je sais, que je ne sais pas.</h1>
+
+<p>Celui-ci est celui que la plupart d&#8217;entre nous ignorent. Ils ne prennent pas en compte, ainsi que le plus difficile à expliquer. Par exemple, je ne savais pas que je pouvais prendre soin de moi sans médicaments. Que je pouvais me prévenir d&#8217;être malade avant de démarrer l&#8217;étude du Shiatsu. Je pensais aussi qu&#8217;être timide était un fait et non pas quelque chose sur lequel je peux avoir le contrôle quand je le souhaite. Je ne savais pas qu&#8217;être bon scolairement n&#8217;était pas une question d&#8217;intelligence ou même de manque de détermination, mais un manque d&#8217;habitude.</p>
+
+<p>Ce troisième élément du savoir donne de la perspective à ma vision des choses. Je vis dans le désir de découvrir toute ces choses que je ne connais pas. Dont je n&#8217;ai même pas idée de l&#8217;existence. Qui est hors de ma portée, de mon champ de vision.</p>
+
+<p>~~~</p>
+
+<p>La photo est un banc au Bangladesh ou j&#8217;ai pris l&#8217;habitude de m&#8217;asseoir. Place surnommée la place des vents. Avoir un ventilateur est un luxe pour certains. Ils ne savent pas qu&#8217;ils ne savent pas que nous avons des bâtiments entiers dont la température est régulée ici.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Comment évaluer Sa Vie]]></title>
@@ -562,7 +601,7 @@
 
 <p>Est-ce que j&#8217;existe vraiment? C&#8217;est un peu la question que je me pose tout le temps dans ma tête, haha. Demain je reviens avec quelque chose de plus terre à terre !</p>
 
-<p>Ps : Peut être que certain vont me prendre pour un fou ou peut être que cela va changer la vision d&#8217;une personne. et ce sera déjà beaucoup pour moi. Toute la beauté de ce monde ! Est-ce que d&#8217;autres personnes on eut des pensées pareilles? N’hésitez pas en commentaire ou à <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#112;&#x68;&#x69;&#108;&#x69;&#112;&#x70;&#101;&#116;&#114;&#105;&#110;&#x67;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#112;&#x68;&#105;&#x6c;&#x69;&#x70;&#x70;&#x65;&#116;&#114;&#105;&#110;&#103;&#64;&#x67;&#109;&#97;&#x69;&#108;&#x2e;&#x63;&#111;&#x6d;</a> peu importe exprimez vous !</p>
+<p>Ps : Peut être que certain vont me prendre pour un fou ou peut être que cela va changer la vision d&#8217;une personne. et ce sera déjà beaucoup pour moi. Toute la beauté de ce monde ! Est-ce que d&#8217;autres personnes on eut des pensées pareilles? N’hésitez pas en commentaire ou à <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#112;&#x68;&#105;&#108;&#105;&#112;&#x70;&#101;&#116;&#x72;&#105;&#x6e;&#103;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#x70;&#104;&#x69;&#x6c;&#105;&#x70;&#112;&#101;&#x74;&#x72;&#x69;&#110;&#103;&#x40;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a> peu importe exprimez vous !</p>
 
 <p>~~~</p>
 
@@ -744,54 +783,6 @@
 <h1>Version écrite</h1>
 
 <p>Pour ceux qui préfèrent une version écrite je vous redirige vers l&#8217;excellent blog de Jeff Atwood, fondateur de Stackoverflow. <a href="http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/">Ten commandments of egoless programming</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Utiliser Un Ballon De Fitness Comme Chaise De Bureau ?]]></title>
-    <link href="http://philippetring.fr/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau/"/>
-    <updated>2015-02-18T07:36:19+01:00</updated>
-    <id>http://philippetring.fr/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/ball-chair-main-2.jpg"></p>
-
-<p>S&#8217;asseoir sur une chaise toute la journée est vraiment mauvais. Qu&#8217;en est-il de s&#8217;asseoir sur un ballon d&#8217;exercice ?</p>
-
-<p>Il y a quelques mois de cela, j&#8217;ai remplacé ma chaise de bureau chez <a href="http://easi-crm.com">easiware</a> pour un ballon de fitness. Passant un certain nombre d&#8217;heures à mon bureau je me demandais si cela aurait un impact positif sur ma position mais surtout&hellip; J&#8217;aime essayer des choses nouvelles !</p>
-
-<!-- more -->
-
-
-<h1>Santé</h1>
-
-<p>Je ne vais pas vous faire un article sur les bienfaits potentiels d&#8217;un ballon d&#8217;exercice pour le corps. Vous trouverez de multiples ressources à ce sujet qui n&#8217;ont a priori aucune preuve scientifique. Après 2 mois d&#8217;essai, ma constatation est qu&#8217;un ballon de yoga est équivalent à une chaise classique (Asseyez vous 8 heures devant un écran tous les jours sans bouger, peu importe ce sur quoi vous reposez vous aurez mal !). L&#8217;important étant d&#8217;avoir une bonne position en étant assis et de régulièrement bouger !</p>
-
-<p>J&#8217;avais aussi tendance à m&#8217;avachir vers l&#8217;arrière sur une chaise classique (Vous savez comme une larve !). Mais ne disposant pas de dossier cela m&#8217;est dorénavant impossible. Par contre pour le fait de me pencher en avant, ça ne résout absolument rien ! Donc pas de solution miracle. Simplement me rappeler de me redresser lorsque cela m&#8217;arrive.</p>
-
-<h1>Avantages</h1>
-
-<p>Néanmoins plusieurs choses sont agréables :</p>
-
-<ul>
-<li>Le fait de pouvoir jump en écoutant une musique entrainante en plein milieu de l&#8217;open-space</li>
-<li>Faire le pont (Etirer son dos par la même occasion) pour réfléchir&hellip; ou pas ! Bonus, un animal snappé dans son état naturel. (Clic sur l&#8217;image)<br>
-<a href="http://philippetring.fr/images/ball-chair-snapchat.jpg" class="fancybox" title="snap by Tobi "><img src="http://philippetring.fr/images/ball-chair-snapchat-thumb.jpg" alt="snap by Tobi " /></a></li>
-<li>Tenter de rester aussi longtemps que possible en équilibre en décollant les pieds du sol.</li>
-<li>Pour la gente féminine la possibilité de se frotter l&#8217;entrejambe serait plausible d&#8217;après une testeuse souhaitant garder l&#8217;anonymat. (Faites juste attention aux regards de vos collègues !)</li>
-</ul>
-
-
-<h1>Inconvénients</h1>
-
-<ul>
-<li>Pour la gente masculine, vos bijoux familiaux risquent parfois d’être mal placés ! Pas de panique un simple réajustement sera aisé à faire.</li>
-<li>Le bruit de votre pantalon contre le ballon qui ressemble étrangement à un pet.</li>
-<li>Attention si vous tentez l’aventure vos collègues pourraient avoir tendance à vous déséquilibrer aux moments les plus inattendus !</li>
-</ul>
-
-
-<p>Donc pas de solution miracle pour votre position ! Mais il est vrai que je trouve l’expérience agréable et que je me vois mal retourner à une chaise classique.</p>
-
-<p>Bonne année de la chèvre !</p>
 ]]></content>
   </entry>
   
