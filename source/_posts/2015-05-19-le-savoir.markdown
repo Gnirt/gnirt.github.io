@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Le savoir"
+date: 2015-05-19 23:48:46 +0200
+comments: true
+categories:
+---
+
+{% img center /images/le-savoir.jpg %}
+
+Nous sommes nés avec une mémoire vide. Cette mémoire au fur et à mesure du temps s'est remplie de souvenirs, d'expériences et de savoirs. Ce dernier élément est pour moi séparé en 3 grandes parties.
+
+1. Ce que je sais, que je sais.
+2. Ce que je sais, que je ne sais pas.
+3. Ce que je ne sais pas, que je ne sais pas.
+
+<!-- more -->
+
+# Ce que je sais, que je sais.
+
+Celui-ci est simple, je sais que je sais marcher, lire le français, programmer. Il regroupe tout ce que nous sommes capables de faire.
+
+# Ce que je sais, que ne sais pas.
+
+Je sais que je ne sais pas (encore) parler arabe, jouer de la guitare, faire un salto, la cuisine. Il regroupe ma perspective du monde et des possibilités qui me sont connus. Je peux donc quand je le souhaiterais les apprendre (au moment opportun).
+
+# Ce que je sais, que je ne sais pas.
+
+Celui-ci est celui que la plupart d'entre nous ignorent. Ils ne prennent pas en compte, ainsi que le plus difficile à expliquer. Par exemple, je ne savais pas que je pouvais prendre soin de moi sans médicaments. Que je pouvais me prévenir d'être malade avant de démarrer l'étude du Shiatsu. Je pensais aussi qu'être timide était un fait et non pas quelque chose sur lequel je peux avoir le contrôle quand je le souhaite. Je ne savais pas qu'être bon scolairement n'était pas une question d'intelligence ou même de manque de détermination, mais un manque d'habitude.
+
+Ce troisième élément du savoir donne de la perspective à ma vision des choses. Je vis dans le désir de découvrir toute ces choses que je ne connais pas. Dont je n'ai même pas idée de l'existence. Qui est hors de ma portée, de mon champ de vision.
+
+~~~
+
+La photo est un banc au Bangladesh ou j'ai pris l'habitude de m'asseoir. Place surnommée la place des vents. Avoir un ventilateur est un luxe pour certains. Ils ne savent pas qu'ils ne savent pas que nous avons des bâtiments entiers dont la température est régulée ici.
