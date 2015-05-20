@@ -4,7 +4,7 @@
   <title><![CDATA[Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-05-20T00:48:06+02:00</updated>
+  <updated>2015-05-21T00:34:19+02:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Le Grand Peut-être]]></title>
+    <link href="http://philippetring.fr/blog/2015/05/20/le-grand-peut-etre/"/>
+    <updated>2015-05-20T22:16:29+02:00</updated>
+    <id>http://philippetring.fr/blog/2015/05/20/le-grand-peut-etre</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/le-grand-peut-etre.jpg"></p>
+
+<p>En ce moment, peu importe avec qui je discute, je finis par lui demander quel est son but. Étant moi même en pleine remise en question. C’est intéressant de voir que peu importe l’âge, le niveau social, personne n’est jamais totalement sûr de son choix. Nous sommes pleins de doutes, d’incertitudes. Cette appréhension est constamment présente, mais le facteur rendant ce doute bon ou mauvais pour soi est le pessimisme ou l’optimisme qui l’accompagne.</p>
+
+<!-- more -->
+
+
+<p>La raison pour laquelle l’optimisme est l’une des qualités que je scrute en premier chez une personne est qu’elle apporte de l’espoir. Prenez une personne voulant négocier son salaire. Si pessimiste, elle partira perdante. Elle sera déjà battue mentalement voir tant résignée qu’elle ne prendra même pas la peine de passer à l’action. Se plaindra intérieurement, ou transmettra cela à son entourage. Sans agir.</p>
+
+<p>Au contraire, la personne optimiste tentera dans tous les cas avec l’aura positive et attrayante qu’il faut. Avec l’état d’esprit d’avoir la promotion.</p>
+
+<p>Le grand peut-être est une théorie (de ma tête). C’est ce grand peut-être qui me pousse à agir lorsque je suis épuisé. Ne me sens pas l’envie de sortir, ou de faire, d’agir et préfère ne rien faire. Tout ceci dans l’espoir que peut-être vais-je vivre un moment inoubliable. Cela est possible uniquement en étant optimiste.</p>
+
+<p>~~~</p>
+
+<p>La photo a été prise dans un café en Angleterre</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Le Savoir]]></title>
@@ -601,7 +625,7 @@
 
 <p>Est-ce que j&#8217;existe vraiment? C&#8217;est un peu la question que je me pose tout le temps dans ma tête, haha. Demain je reviens avec quelque chose de plus terre à terre !</p>
 
-<p>Ps : Peut être que certain vont me prendre pour un fou ou peut être que cela va changer la vision d&#8217;une personne. et ce sera déjà beaucoup pour moi. Toute la beauté de ce monde ! Est-ce que d&#8217;autres personnes on eut des pensées pareilles? N’hésitez pas en commentaire ou à <a href="&#x6d;&#x61;&#105;&#108;&#116;&#x6f;&#58;&#112;&#x68;&#105;&#108;&#105;&#112;&#x70;&#101;&#116;&#x72;&#105;&#x6e;&#103;&#x40;&#103;&#109;&#x61;&#x69;&#108;&#46;&#99;&#x6f;&#109;">&#x70;&#104;&#x69;&#x6c;&#105;&#x70;&#112;&#101;&#x74;&#x72;&#x69;&#110;&#103;&#x40;&#x67;&#109;&#97;&#105;&#108;&#x2e;&#99;&#x6f;&#109;</a> peu importe exprimez vous !</p>
+<p>Ps : Peut être que certain vont me prendre pour un fou ou peut être que cela va changer la vision d&#8217;une personne. et ce sera déjà beaucoup pour moi. Toute la beauté de ce monde ! Est-ce que d&#8217;autres personnes on eut des pensées pareilles? N’hésitez pas en commentaire ou à <a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#112;&#104;&#105;&#108;&#105;&#112;&#x70;&#101;&#x74;&#114;&#105;&#110;&#103;&#x40;&#103;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x70;&#104;&#x69;&#x6c;&#105;&#112;&#x70;&#101;&#x74;&#114;&#105;&#x6e;&#103;&#64;&#103;&#109;&#x61;&#105;&#108;&#46;&#99;&#x6f;&#109;</a> peu importe exprimez vous !</p>
 
 <p>~~~</p>
 
@@ -747,42 +771,6 @@
 <p>~~~</p>
 
 <p>La photo est une rue en Inde ou j&#8217;ai décidé de m&#8217;asseoir et joué de l&#8217;harmonica en attendant que mes compagnons sortent de la boutique (Ne sachant évidemment pas en jouer). Harmonica qui a atterri dans les mains d&#8217;un petit bonhomme dans une épicerie !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[10 Commandements Pour Programmer Sans Ego]]></title>
-    <link href="http://philippetring.fr/blog/2015/03/04/commandements-pour-programmer-sans-ego/"/>
-    <updated>2015-03-04T08:59:49+01:00</updated>
-    <id>http://philippetring.fr/blog/2015/03/04/commandements-pour-programmer-sans-ego</id>
-    <content type="html"><![CDATA[<p>Si il y&#8217;a bien une chose qui me freine constamment c&#8217;est bien ma fierté. Lors de débats, de relations, mais aussi lorsqu&#8217;il s&#8217;agit d&#8217;apprendre.</p>
-
-<p>Il y’a quelques mois de cela j’ai eu l’occasion de faire une présentation à <a href="http://rubyparis.org/">ParisRuby</a> sur les 10 commandements pour programmer sans ego. (Un souhait de ma <a href="http://philippetring.fr/life-list">life list</a> en plus de barré !)</p>
-
-<div class="iframe-responsive-wrapper">
-    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
-    <iframe src="//www.youtube.com/embed/eDfWDKzZ3X4" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
-
-
-
-
-<!-- more -->
-
-
-<h1>Les slides</h1>
-
-<div class="iframe-responsive-wrapper">
-    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
-    <iframe src="http://philippetring.fr/egoless-presentation" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-</div>
-
-
-<p><a href="http://philippetring.fr/egoless-presentation">http://philippetring.fr/egoless-presentation</a></p>
-
-<h1>Version écrite</h1>
-
-<p>Pour ceux qui préfèrent une version écrite je vous redirige vers l&#8217;excellent blog de Jeff Atwood, fondateur de Stackoverflow. <a href="http://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/">Ten commandments of egoless programming</a></p>
 ]]></content>
   </entry>
   
