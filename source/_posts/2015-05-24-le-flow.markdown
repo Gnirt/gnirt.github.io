@@ -1,0 +1,29 @@
+---
+layout: post
+title: "Le flow"
+date: 2015-05-24 21:58:28 +0200
+comments: true
+categories:
+---
+
+{% img center /images/le-flow.jpg %}
+
+L'un de mes plus beaux souvenirs de mon voyage en Angleterre, c'est lorsque je remontais une pente, qui me paraissait infinie. Il pleuvait des cordes et des cordes ce jour-là. Il faut m'imaginer avec des gants de vaisselle jaune en guise de gant imperméable, deux sacs plastiques pour couvrir mes tongs et un survêtement acheté 20 euros à Décathlon. Juste à côté de moi roulaient des voitures avec leurs essuie-glaces sur la cadence maximum. À ce moment-là, je me souviens juste avoir crié de toute mes cordes vocales
+
+> AAAAAH JE PEUX LE FAIRE
+
+J'avais certainement l'air fou. Mais je m'en moquais. La seule chose qui comptait vraiment était l'instant présent.
+
+<!-- more -->
+
+J'adore cette sensation, j'imagine que la plupart d'entre nous l'ont déjà vécu. Que ce soit lors d'un effort intense ou pendant un acte de créativité comme l'écriture, la programmation, le dessin, voir même la vaisselle. Certains appellent cela la zone, le flow, être présent. C'est un moment intemporel, comme si nous n'existions plus et existions totalement à la fois. Nous agissons et sommes mentalement concentrés uniquement par la tâche qui nous incombe ici et maintenant.
+
+Quelques personnes dans mon entourage questionnent les raisons de mes trips solitaires à vélo ou à pieds. Après l'effort physique, notre corps plein de courbatures qui ne se préoccupent plus de rien mis à part contempler les étoiles sur son hamac. Mon esprit a alors tout le temps d'être ici. Voyager doucement, en regardant autour de soi. Développer son physique autant que sa tête, ça me parait cohérent.
+
+> Notre corps le conteneur et notre esprit le contenu.
+
+Ça ne me viendrait jamais à l'idée de mettre du thé dans un verre troué. Je soupçonne aussi le but de la méditation d'être ceci, pouvoir rentrer à sa guise dans cet état où la seule chose qui compte est ici et maintenant. Car la prochaine minute n'existera peut-être pas.
+
+~~~
+
+Photo du jour est prise très tôt le matin au bord de Brighton. Juste après une douche glaciale dans la mer où j'ai crié au contact de l'eau comme un bébé à la naissance.
