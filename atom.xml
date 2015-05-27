@@ -4,7 +4,7 @@
   <title><![CDATA[Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-05-26T02:20:01+02:00</updated>
+  <updated>2015-05-27T06:12:07+02:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Abandons &amp; Echecs]]></title>
+    <link href="http://philippetring.fr/blog/2015/05/26/abandons-and-echecs/"/>
+    <updated>2015-05-26T23:31:00+02:00</updated>
+    <id>http://philippetring.fr/blog/2015/05/26/abandons-and-echecs</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/abandons-and-echecs.jpg"></p>
+
+<p>Il est 5h33 du matin et je commence mon article de la journée d&#8217;hier. Les deadlines de beaucoup de mes projets se rapprochent, je viens de passer une partie de la nuit à dormir et l&#8217;autre à compléter <a href="http://gobelins-link.herokuapp.com" target="_blank">Link</a>&hellip; L&#8217;application de correspondance pour lier les enfants du monde.</p>
+
+<!-- more -->
+
+
+<p>Il y&#8217;a une croyance dans les projets, celle que l&#8217;échec est bien, est &ldquo;normal&rdquo;, est un rite de passage vers la réussite. J&#8217;aime être optimiste (et j&#8217;utilise un peu trop ce mot !). Penser que j&#8217;ai suffisamment de volonté pour vaincre ma procrastination et arriver au bout de mes objectifs. Pourtant quand je regarde en arrière dans cette année scolaire qui s&#8217;est écoulée je compte un bon nombre d&#8217;abandons.</p>
+
+<ul>
+<li>Je n&#8217;ai pas atteint l&#8217;Écosse en vélo.</li>
+<li>Le projet <a href="http://bonjourtoi.me/" target="_blank">Bonjour Toi</a> où je devais interviewer et dire bonjour à des passants dans le métro parisien a été orphelins au bout de 5 jours.</li>
+<li>Le projet bonjour Gobelins où je devais interviewer le personnel de Gobelins et faire une exposition d&#8217;eux n&#8217;a pas vu le jour.</li>
+<li>Le programme de danse libre, d&#8217;expression corporelle n&#8217;a pas dépassé le stade administratif.</li>
+<li>Je n&#8217;ai pas lancé d&#8217;application sur l&#8217;App Store.</li>
+<li>Je n&#8217;ai pas contribué pendant 30 jours à des projets open source.</li>
+</ul>
+
+
+<p>Le problème avec le fait de penser que l&#8217;échec est un des stades obligatoires pour la réussite. Je me concentre sur échouer. Je devrais plutôt me concentrer sur la réussite. Non pas sur mon plan de secours en cas d&#8217;échec, mais comment faire en sorte qu&#8217;il soit succès.</p>
+
+<blockquote><p>Je vise l’échec au lieu de la réussite.</p></blockquote>
+
+<p>Puis qu&#8217;est-ce que l&#8217;échec ? J&#8217;ai un but, j&#8217;ai plusieurs phases pour y arriver puis ça n&#8217;arrive pas pour des raisons parfois extérieur, parfois intérieur. L&#8217;échec c&#8217;est surtout quand on se dit que l&#8217;on a échoué et que l&#8217;échec nous brise. Tous ces échecs me mettent K.O et je m&#8217;en plains ou alors&hellip; J&#8217;avance en acceptant ces échecs. Philoptimiste du grec ancien qui aime l&#8217;optimisme, ça ferait un bon nom de blog, non?</p>
+
+<p>~~~</p>
+
+<p>La photo est prise à Orcière merlette, l&#8217;année prochaine je pars au ski ! C&#8217;est noté.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Je Ne Sais Pas De Quoi Parle Cet Article. 25èm Jour D'écriture De Suite]]></title>
@@ -650,69 +686,6 @@ cemment. Je vivais au jour le jour avec tous les mois un compte repartant de 0 e
 <p>~~~</p>
 
 <p>La photo est une route que je trouvais jolie en Angleterre, ce que j&#8217;adore avec les routes c&#8217;est qu&#8217;elles peuvent mener n&#8217;importe où. La route que l&#8217;on prend le matin en sortant de chez soi pour aller au travail peut aussi mener&hellip; En Afrique, en Amérique, en Asie, où vais-je ?</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Organisation]]></title>
-    <link href="http://philippetring.fr/blog/2015/05/06/organisation/"/>
-    <updated>2015-05-06T22:56:29+02:00</updated>
-    <id>http://philippetring.fr/blog/2015/05/06/organisation</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/organisation.jpg"></p>
-
-<p>23h, je n&#8217;ai toujours pas commencé mon article de la journée. Cela me rappelle quand j&#8217;étais au collège et que je faisais toujours mes devoirs la veille (lorsque je les faisais). J&#8217;aime me considérer comme quelqu&#8217;un d&#8217;organisé, mais ces derniers temps il y&#8217;a juste ÉNORMÉMENT de choses en cours. Comment est-ce que je m&#8217;organise ?</p>
-
-<!-- more -->
-
-
-<p>J&#8217;en ai parlé précédemment dans ma <a href="http://philippetring.fr/blog/2015/05/02/habitudes-quotidiennes/">routine quotidienne</a>, mais tous les jours je note 3 choses à faire dans la journée, dont 1 grosse tache dont je m&#8217;occupe en priorité dès que possible. Aujourd&#8217;hui, c&#8217;était faire la landing page de <a href="http://bit.ly/1AFXy1U" target="_blank">Link</a>. Le revers est qu&#8217;il est souvent simple de se contenter de ces 3 choses et de ne pas faire plus. De plus, je passe beaucoup trop de temps sur Youtube, d&#8217;ailleurs je vais enlever tous mes abonnements de ce pas&hellip; J&#8217;en ai laissé 12/94 !</p>
-
-<h1>Lister tout ce qu&#8217;il y&#8217;a à faire</h1>
-
-<p>Pour cela, j&#8217;utilise un simple carnet ou je note tout ce qui me vient à l&#8217;esprit.</p>
-
-<p>En ce moment j&#8217;ai :</p>
-
-<ul>
-<li>Shiatsu ayant mon examen hebdomadaire ce week-end et surtout l&#8217;examen de fin d&#8217;année.</li>
-<li>Chez <a href="http://easiware.fr/" target="_blank">easiware</a> nous lançons notre nouvelle solution de Marketing Automation en bêta test (on va tout cartonner !).</li>
-<li>À Gobelins finir le prototype de <a href="http://bit.ly/1AFXy1U" target="_blank">Link</a>.</li>
-<li>Organiser l&#8217;anniversaire d&#8217;un ami la semaine prochaine.</li>
-<li>Avancer le blog. En dehors d&#8217;écrire un article par jour, design et marketing donc.</li>
-<li>Préparer mon voyage en Espagne cet été.</li>
-</ul>
-
-
-<h1>Planifier une action</h1>
-
-<ul>
-<li>Shiatsu: Demain je ferais 5 Testings musculaires.</li>
-<li>easiware: Message pour savoir comment je peux aider.</li>
-<li>Gobelins: Finir l&#8217;interface pour vendredi soir.</li>
-<li>Anniversaire: Appeler les gens, un cadeau.</li>
-<li>Créer une newsletter, intégrer des boutons de réseaux sociaux.</li>
-<li>Écrire un article sur la préparation de voyage. (Comment voyager 1 mois pour 150 euros)</li>
-</ul>
-
-
-<h1>Enlever les obstacles</h1>
-
-<ol>
-<li>Mettre un casque, même sans musique les gens seront moins tentés de vous déranger. Écouter de la musique sans paroles, sinon je finis toujours par chanter. J&#8217;adore <a href="https://lullatone.bandcamp.com/album/soundtracks-for-everyday-adventures" target="_blank">Soundtrack for every adventures</a> et <a href="https://coffitivity.com/" target="_blank">Coffitivity</a></li>
-<li>Couper internet quand il est non nécessaire. Pour écrire un article par exemple, et ne pas surfer sur internet pendant 3 heures.</li>
-<li>Préparer mon tapis de Yoga pour demain.</li>
-</ol>
-
-
-<p>Ça fait très longtemps que je pense à timesheeter ce sur quoi je passe mon temps avec <a href="https://www.toggl.com/" target="_blank">Toggl</a>.</p>
-
-<p>Et vous comment travaillez-vous ?</p>
-
-<p>PS: Je lis en ce moment <a href="http://gettingthingsdone.com/" target="_blank">Getting Things Done</a> je vous ferais probablement un article dessus ! Pour être exact, c&#8217;est ma deuxième lecture, ma lecture &ldquo;attentive&rdquo;.</p>
-
-<p>~~~</p>
-
-<p>La photo vient du haut d&#8217;une montagne au Bangladesh.</p>
 ]]></content>
   </entry>
   
