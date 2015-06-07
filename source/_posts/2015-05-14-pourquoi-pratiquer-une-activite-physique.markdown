@@ -24,7 +24,15 @@ Ayant pour but de voyager à long terme, je me doute des risques que cela peut i
 
 # Pourquoi le Ninjutsu ?
 
-Mon école est divisée en 2 grandes branches, la partie Shiatsu qui sont des techniques tiré de la médecine traditionnelle japonaise et le Ninjutsu qui est l’art que pratiquait les Ninjas dans le temps. Le programmé a était fait de manière à y aller petit à petit. Au départ, nous reprenons le contrôle de notre corps à travers le mouvement. Apprendre à se déplacer, remettre en forme son corps. Le travail avec un partenaire n’est vu que quelques niveaux plus loin. Au départ de loin, puis au fur et à mesure des niveaux en se rapprochant de la personne. L’ensemble est équilibré, nous travaillons notre force avec des exercices de musculation, notre agilité à travers des mouvements qui demande la coordination de tous nos membres, et notre endurance pendant la séance.
+Mon école est divisée en 4 grandes branches :
+
+* L’Académie des Sports de Combats et Arts Martiaux qui instruit aux arts martiaux, Nin-Jutsu (qui est l’art que pratiquait les Ninjas dans le temps) et Ju-Jutsu. Le programmé a était fait de manière à y aller petit à petit. Au départ, nous reprenons le contrôle de notre corps à travers le mouvement. Apprendre à se déplacer, remettre en forme son corps. Le travail avec un partenaire n’est vu que quelques niveaux plus loin. Au départ de loin, puis au fur et à mesure des niveaux en se rapprochant de la personne. L’ensemble est équilibré, nous travaillons notre force avec des exercices de musculation, notre agilité à travers des mouvements qui demande la coordination de tous nos membres, et notre endurance pendant la séance.
+
+* Le Second Cercle des Arts Méditatifs de l’Aka qui perpétue les techniques de méditation.
+
+* Le Centre d’Apprentissage du Shiatsu et des Méthodes Associées qui forme au Shiatsu et au soin d’autrui. Qui sont des techniques tiré de la médecine traditionnelle
+
+* L’Association des Mouvements de Santé de l’Aka Chûshin qui diffuse les gymnastiques de santé.
 
 Une séance de ninjutsu dans mon école se déroule ainsi :
 
