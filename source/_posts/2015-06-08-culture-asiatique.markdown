@@ -7,7 +7,7 @@ categories:
 ---
 {% img center /images/culture-asiatique.jpg %}
 
-La famille dans laquelle on née et grandis est/sera responsable d'une grande partie de notre futur nous. Quand je regarde les habitudes de notre société occidentale et celle des traditions amenées par la culture orientale amenée par mes origines. Je comprends mieux le mal que j'ai à m'acclimater ici.
+La famille dans laquelle on grandit est responsable d'une grande partie de notre futur nous. Quand je regarde les habitudes de notre société occidentale et celle des traditions amenées par la culture orientale transmis par mes origines. Je comprends mieux le mal que j'ai à m'acclimater parfois.
 
 <!-- more -->
 
