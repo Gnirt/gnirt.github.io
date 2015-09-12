@@ -59,6 +59,8 @@ So now that I know all that what I’m I going to do?
 Food on a less conscious state is also a lot of other things. An entertainment, an object of pleasure, I got food when I’m bored, when I’m depressed, when I socialize, when I spend money (a lot of money), when I have sex (sometimes), as a gift, as an addiction, as a huge part of economy, as a diet, as a reward…
 During the fast I had progressively all those field getting back at me. At first I wanted to eat food to distract me, then because my friend were going to eat, then at the end because I was hungry. Back to the basic, the fundamental. Food is my body essence.
 
+Thanks to Ali for his help writing this and inspiring me to make this wonderful experience.
+
 ~~~
 
 Picture has been taken on a improvised hitchhiking trip week end at Etretat.
