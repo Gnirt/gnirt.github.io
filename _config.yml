@@ -16,7 +16,7 @@ description: ""
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: http://feeds.feedburner.com/TringPhilippeBlog
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -103,4 +103,4 @@ facebook_like: false
 tapir_token: 53c64856346c8f0200000001
 
 front_page_categories: [draft] # A list of categories for the front page
-front_page_categories_op : 'hide' 
+front_page_categories_op : 'hide'
