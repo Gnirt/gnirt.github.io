@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Development | Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/blog/categories/development/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-09-13T11:27:37+02:00</updated>
+  <updated>2015-10-16T14:11:31+02:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[WebGL Workshop at Gobelins]]></title>
+    <link href="http://philippetring.fr/blog/2015/10/16/webgl-workshop-at-gobelins/"/>
+    <updated>2015-10-16T13:54:25+02:00</updated>
+    <id>http://philippetring.fr/blog/2015/10/16/webgl-workshop-at-gobelins</id>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/three-js-experimentation.jpg"></p>
+
+<p>We had a 4 days workshop at <a href="http://www.gobelins.fr/">Gobelins</a>, having fun making 3D and animation. You can see the result at <a href="http://philippetring.fr/Three-js-experimentation/" title="Three js experimentation">http://philippetring.fr/Three-js-experimentation/</a></p>
+
+<p>For the inspiration the first part is a Spoken Word (a form of poetry) originally perform by Prince EA. The second part is from Matrix, the movie.</p>
+
+<p>Let me know what you think in the comments, criticism more than welcome.</p>
+
+<p><a href="http://philippetring.fr/Three-js-experimentation/" title="Three js experimentation">http://philippetring.fr/Three-js-experimentation/</a></p>
+
+<p>~~~</p>
+
+<p>Picture is from the experiment itself</p>
+
+<!-- more -->
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[10 Commandements Pour Programmer Sans Ego]]></title>

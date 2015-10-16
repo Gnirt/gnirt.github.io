@@ -4,7 +4,7 @@
   <title><![CDATA[Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-09-13T11:27:37+02:00</updated>
+  <updated>2015-10-16T14:11:31+02:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[WebGL Workshop at Gobelins]]></title>
+    <link href="http://philippetring.fr/blog/2015/10/16/webgl-workshop-at-gobelins/"/>
+    <updated>2015-10-16T13:54:25+02:00</updated>
+    <id>http://philippetring.fr/blog/2015/10/16/webgl-workshop-at-gobelins</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/three-js-experimentation.jpg"></p>
+
+<p>We had a 4 days workshop at <a href="http://www.gobelins.fr/">Gobelins</a>, having fun making 3D and animation. You can see the result at <a href="http://philippetring.fr/Three-js-experimentation/" title="Three js experimentation">http://philippetring.fr/Three-js-experimentation/</a></p>
+
+<p>For the inspiration the first part is a Spoken Word (a form of poetry) originally perform by Prince EA. The second part is from Matrix, the movie.</p>
+
+<p>Let me know what you think in the comments, criticism more than welcome.</p>
+
+<p><a href="http://philippetring.fr/Three-js-experimentation/" title="Three js experimentation">http://philippetring.fr/Three-js-experimentation/</a></p>
+
+<p>~~~</p>
+
+<p>Picture is from the experiment itself</p>
+
+<!-- more -->
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Experience: Do Not Eat for a Week]]></title>
@@ -86,6 +110,24 @@ During the fast I had progressively all those field getting back at me. At first
 <p>~~~</p>
 
 <p>Picture has been taken on a improvised hitchhiking trip week end at Etretat.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Moment De Danse Hors Du Temps]]></title>
+    <link href="http://philippetring.fr/blog/2015/06/15/moment-de-danse-hors-du-temps/"/>
+    <updated>2015-06-15T15:46:57+02:00</updated>
+    <id>http://philippetring.fr/blog/2015/06/15/moment-de-danse-hors-du-temps</id>
+    <content type="html"><![CDATA[<div class="iframe-responsive-wrapper">
+    <img class="iframe-ratio" src="data:image/gif;base64,R0lGODlhEAAJAIAAAP///wAAACH5BAEAAAAALAAAAAAQAAkAAAIKhI+py+0Po5yUFQA7"/>
+    <iframe src="//www.youtube.com/embed/5PkOycQlqVE" width="640" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
+
+
+
+
+<p>Il y a des fois ou on se sent inspir&eacute;, qu&#8217;une musique nous prend et voila ce que &ccedil;a donne, <strong>session danse solo improvis&eacute;e</strong> ! Ce vendredi j&rsquo;ai eu la chance de participer &agrave; une nuit &agrave; la belle &eacute;toile &eacute;v&eacute;nement organis&eacute; par Michel et Augustin. Par la m&ecirc;me occasion de rencontrer Rapha&euml;l, Octavio ( Et Ena je t&#8217;oublis pas ! ) du groupe <a href="https://www.facebook.com/musicnamaste">Namaste</a> qui m&rsquo;ont vraiment inspir&eacute; et rappel&eacute; mon voyage en Inde mais surtout fait vivre un moment de partage hors du temps. Merci &agrave; vous !</p>
+
 ]]></content>
   </entry>
   
@@ -627,68 +669,6 @@ cemment. Je vivais au jour le jour avec tous les mois un compte repartant de 0 e
 <p>~~~</p>
 
 <p>La photo a était prise dans le desert de Jaisalmer, dans le Rajasthan en Inde. C&#8217;était mon premier bisou dans un désert. Il y&#8217;a des première fois à tout, l&#8217;histoire ne dit pas exactement où était le bisou, à votre imagination !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Pensée Limitante]]></title>
-    <link href="http://philippetring.fr/blog/2015/05/12/pensee-limitante/"/>
-    <updated>2015-05-12T18:18:28+02:00</updated>
-    <id>http://philippetring.fr/blog/2015/05/12/pensee-limitante</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/pensee-limitante.jpg"></p>
-
-<p>Étant petit j&#8217;étais un élève moyen. Moyen en sport, moyen en français, dans à peu près toutes les catégories. Aujourd&#8217;hui, je me rends compte que le simple fait de me dire ça était le problème. Je me limitais moi même.</p>
-
-<blockquote><p>I know I can be what i wanna be be if i work hard at it i&rsquo;ll be where i wanna be &ndash; Nas</p></blockquote>
-
-<!-- more -->
-
-
-<p>J&#8217;ai lu un article sur la différence entre un état d&#8217;esprit statique (Static mindset) et un état d&#8217;esprit évoluant (Growth mindset). Les personnes ayant un état d&#8217;esprit dit statique ont tendance à se reposer sur leurs facilités et s&#8217;arrêter dès lors que la tâche devient ardue. Au contraire, les personnes ayant un état d&#8217;esprit évoluant ont tendance à persister, car pour eux tout est apprenable, peut-être acquis avec du travail.</p>
-
-<p>La bonne nouvelle, c&#8217;est que l&#8217;on peut changer d&#8217;état d&#8217;esprit. S&#8217;en rendre compte est un premier pas. Raire et agir est le suivant ainsi que le plus compliqué. Surtout lorsque l&#8217;on a pris l&#8217;habitude de s&#8217;asseoir devant l&#8217;ordinateur et joué aux jeux vidéo durant les 15 premières années de sa vie. Je le répète ce ne sera pas facile, mais si c&#8217;était facile tout le monde le ferait. Je crois en moi, et je vais y arriver !</p>
-
-<p>La nouvelle encore meilleure (C&#8217;est ce qui est bien avec moi, c&#8217;est qu&#8217;il n’y’a pas une bonne et une mauvaise nouvelle, mais une bonne et une encore meilleure nouvelle huhu). C&#8217;est que toi aussi tu peux apprendre ce que tu souhaites. Cela demande du temps, de la motivation (au début), enfin de se créer un système, un automatisme, une habitude.</p>
-
-<p>Mon système à moi ce sont mes challenges que je me donne tous les mois. Je ne sais plus qui a dit qu&#8217;il vaut mieux donner 1000 coups de poing pendant 1000 jours que 1000 coups de poing en 1 jour (bonus pour 1000 coups de poing pendant 1000 jours). Bruce Lee !</p>
-
-<p>Et toi qu&#8217;aimerais tu savoir faire? Faire un challenge à plusieurs c&#8217;est toujours plus motivant !</p>
-
-<p>~~~</p>
-
-<p>La photo a était prise en France, dans le centre d&#8217;équitation des LERAT à Pommeréval qui m&#8217;ont gentiment offert leur écurie pour une nuit pleine de rebondissements !</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[La Vie Est-elle Assez Longue?]]></title>
-    <link href="http://philippetring.fr/blog/2015/05/11/la-vie-est-elle-assez-longue/"/>
-    <updated>2015-05-11T21:49:21+02:00</updated>
-    <id>http://philippetring.fr/blog/2015/05/11/la-vie-est-elle-assez-longue</id>
-    <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/la-vie-est-elle-longue.jpg"></p>
-
-<p>Aujourd’hui, j’essaye une nouvelle façon d’écrire : Freestyle. Laisser ma pensée coulée. Ce week-end j’ai cassé mon téléphone. Un vieux Nokia avec un clavier T9. Un des clairs avantages de ne pas avoir un smartphone, c’est que lorsque l’on le casque on s’en moque. À côté de cela, j’ai perdu beaucoup de contact. Je payerais bien 100 euros pour les retrouver et les synchroniser en moins d’une minute. Je sais pas encore ou tout ça va me mener, mais bon je raconte juste ma vie en attendant que l’inspiration vienne… Trouvé, passer sa vie attacher a ses affaires.</p>
-
-<!-- more -->
-
-
-<p>Ce qui me ferait vraiment peur avec un smartphone c’est que je serais probablement en train de jouer plutôt que d’écrire dans le métro. À ce propos, la dame à côté de moi me regarde bizarrement, mais je survivrais ou vous ne lirez jamais ces lignes. Concentre-toi Philippe. Pour revenir au smartphone.</p>
-
-<blockquote><p>Être celui qui contrôle la technologie et non pas celui qui est contrôlé par celle-ci.</p></blockquote>
-
-<p>La raison pour laquelle je tiens tant à ne pas avoir de smartphone, et ne pas être trop devant l’écran est que je pense avoir compris la valeur du temps. Seneque dans son bouquin The shortness of life (j’aime vraiment trop ce bouquin, petit, mais plein de pépites) dit :</p>
-
-<blockquote><p>La vie est longue, si tu sais comment l’utiliser.</p></blockquote>
-
-<p>Du moins un truc dans ces lignes-là. J’ai passé les premières années de ma vie d&#8217;adulte à regarder passer ma vie au lieu de la <strong>VIVRE</strong>. Clairement aujourd’hui je vais au travail pour être payer moins que ce que je gagnais à servir des gens au restaurant. Mais au moins, je vais apprendre quelque chose qui m&#8217;est utile. J’essaye au maximum d’investir mon temps dans des choses qui apporteront de la valeur à ma vie. Probablement l’une des raisons pour lesquelles j’ai tant de mal à travailler sur mon projet à l’école, car je sais qu’il m’apporte très peu pour l’investissement que j’y mets ! Ce n’est pas la durée de la vie qui est en cause. Si la durée de la vie était de 300 ans en moyenne, est-ce que la plupart d’entre nous accompliraient plus de choses ? Nous passerions probablement plus de temps à nous dire que nous avons le temps.</p>
-
-<p>Dites-moi sur quoi comptez-vous passer votre temps, peut être que ça me donnera des idées.</p>
-
-<p>PS: Je n’ai jamais écrit un article aussi vite, je suis rentré dans ce que beaucoup appelle le “flow”. Un concept qui mérite un article d’ailleurs. Après relecture, j’aime bien cet article. Heureusement, car les articles des derniers jours ne me plaisaient pas.</p>
-
-<p>~~~</p>
-
-<p>La photo du jour est prise depuis un toit de Paris.</p>
 ]]></content>
   </entry>
   
