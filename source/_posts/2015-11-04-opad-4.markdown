@@ -1,0 +1,23 @@
+---
+layout: post
+title: "how-much-money-is-enough"
+date: 2015-11-04 17:45:58 +0100
+comments: true
+categories:
+---
+
+{% img center /images/how-much-money-is-enough.jpg %}
+
+This article is a part of my 30 days challenge "One Problem A Day". Where I have to solve a problem I have through my day. Today: ** How much money do I need to live? **
+
+<!-- more -->
+
+I'm starting to realize that in a few months I won't hang out in Gobelins anymore (My school). Will I miss it? Probably not. I'm bored and can't wait for what's next. But what's next? I have no clue. I'm searching for path, possibilities. The most appealing one is to travel around the world like a hobo. But it's also the scariest one. So I'm looking for a job and I start asking myself what's a good job? I see plenty of my developer friend who after a few months in a well paying job stop it to pursue an uncertain path to grow a business and i'm very impress by them. So money is not the problem, people don't want to be rich we want the possibilities that offer money.
+
+At 2k money I can live more than enough. So here's my number, how can I make it for the least amount of time so I can enjoy life the rest. Here's one of adult life goal, having 2k of income each month for the less amount of work (Work: Time I dislike the use of).
+
+Thil lead naturally to tomorrow problem. How do I get happy?
+
+~~~
+
+Picture are my feet after a cloudy day of hiking in the mountain of Spain.
