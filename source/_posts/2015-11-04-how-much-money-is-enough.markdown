@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "how-much-money-is-enough"
+title: "How much money is enough"
 date: 2015-11-04 17:45:58 +0100
 comments: true
 categories:
@@ -16,7 +16,7 @@ I'm starting to realize that in a few months I won't hang out in Gobelins anymor
 
 At 2k money I can live more than enough. So here's my number, how can I make it for the least amount of time so I can enjoy life the rest. Here's one of adult life goal, having 2k of income each month for the less amount of work (Work: Time I dislike the use of).
 
-Thil lead naturally to tomorrow problem. How do I get happy?
+This lead naturally to tomorrow problem. How do I get happy?
 
 ~~~
 
