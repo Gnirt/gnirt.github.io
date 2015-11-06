@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Developpemment | Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/blog/categories/developpemment/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-11-04T23:44:50+01:00</updated>
+  <updated>2015-11-06T17:12:50+01:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -18,7 +18,7 @@
     <link href="http://philippetring.fr/blog/2015/10/16/webgl-workshop-at-gobelins/"/>
     <updated>2015-10-16T13:54:25+02:00</updated>
     <id>http://philippetring.fr/blog/2015/10/16/webgl-workshop-at-gobelins</id>
-    <content type="html"><![CDATA[<p><img class="center" src="/images/three-js-experimentation.jpg"></p>
+    <content type="html"><![CDATA[<p>{% img center /images/three-js-experimentation.jpg %}</p>
 
 <p>We had a 4 days workshop at <a href="http://www.gobelins.fr/">Gobelins</a>, having fun making 3D and animation. You can see the result at <a href="http://philippetring.fr/Three-js-experimentation/" title="Three js experimentation">http://philippetring.fr/Three-js-experimentation/</a></p>
 
