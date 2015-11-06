@@ -12,9 +12,9 @@ This article is a part of my 30 days challenge "One Problem A Day". Where I have
 
 <!-- more -->
 
-Ok, how should I start that hard question it might seem too optimist to answer this question for everyone so I'll try to solve it for me. What's happiness? Is it me watching a youtube video, eating awesome food, laughing hard with my friend, having sex, being rich? All that is pleasure for sure and does bring happiness for a short instant but in the long term wont bring sustainable source of happiness. What's the common denominator for all of these things? They come from outer world instead of my inner self. Does eating more or that will make me forever happy? Having multiple partner for intercourse, a higher salary, all those numbers. I heard Boutan is calculating happiness grow in their country. I wonder how they do that.
+Ok, how should I start that hard question it might seem too optimist to answer this question for everyone so I'll try to solve it for me. What's happiness? Is it me watching a youtube video, eating awesome food, laughing hard with my friend, having sex, being rich? All that is pleasure for sure and does bring happiness for a short instant but in the long term wont bring sustainable source of happiness. What's the common denominator for all of these things? They come from outer world instead of my inner self. Does eating more or that will make me forever happy? Having multiple partner for intercourse, a higher salary, all those numbers. I heard Bhutan is calculating happiness grow in their country. I wonder how they do that.
 
-In the old time when math doesn't exists life must be so much different. We are now numbers everywhere. Of like, share, salary... So if I follow the hyposthesis that happiness come from inside and not outside. How can it be ?
+In the old time when math doesn't exists life must be so much different. We are now numbers everywhere. Of like, share, salary... So if I follow the hypothesis that happiness come from inside and not outside. How can it be ?
 
 # How can I speak about happiness without speaking about sadness? One doesn't exists without the other.
 
