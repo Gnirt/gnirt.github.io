@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-11-06T17:12:50+01:00</updated>
+  <updated>2015-11-08T02:45:49+01:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -36,7 +36,7 @@
     <link href="http://philippetring.fr/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau/"/>
     <updated>2015-02-18T07:36:19+01:00</updated>
     <id>http://philippetring.fr/blog/2015/02/18/utiliser-un-ballon-de-fitness-comme-chaise-de-bureau</id>
-    <content type="html"><![CDATA[<p>{% img center /images/ball-chair-main-2.jpg %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/ball-chair-main-2.jpg"></p>
 
 <p>S'asseoir sur une chaise toute la journée est vraiment mauvais. Qu'en est-il de s'asseoir sur un ballon d'exercice ?</p>
 
@@ -58,7 +58,7 @@
 <ul>
 <li>Le fait de pouvoir jump en écoutant une musique entrainante en plein milieu de l'open-space</li>
 <li>Faire le pont (Etirer son dos par la même occasion) pour réfléchir&hellip; ou pas ! Bonus, un animal snappé dans son état naturel. (Clic sur l'image)<br>
-{% photo /images/ball-chair-snapchat.jpg /images/ball-chair-snapchat-thumb.jpg snap by Tobi %}</li>
+<a href="/images/ball-chair-snapchat.jpg" class="fancybox" title="snap by Tobi "><img src="/images/ball-chair-snapchat-thumb.jpg" alt="snap by Tobi " /></a></li>
 <li>Tenter de rester aussi longtemps que possible en équilibre en décollant les pieds du sol.</li>
 <li>Pour la gente féminine la possibilité de se frotter l'entrejambe serait plausible d'après une testeuse souhaitant garder l'anonymat. (Faites juste attention aux regards de vos collègues !)</li>
 </ul>
