@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "opab7"
+title: "How to invent problems"
 date: 2015-11-07 18:39:51 +0100
 comments: true
 categories:
