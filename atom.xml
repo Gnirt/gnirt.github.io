@@ -4,7 +4,7 @@
   <title><![CDATA[Tring Philippe Blog]]></title>
   <link href="http://philippetring.fr/atom.xml" rel="self"/>
   <link href="http://philippetring.fr/"/>
-  <updated>2015-11-11T01:18:30+01:00</updated>
+  <updated>2015-11-11T01:19:52+01:00</updated>
   <id>http://philippetring.fr/</id>
   <author>
     <name><![CDATA[Philippe Tring]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Value1]]></title>
-    <link href="http://philippetring.fr/blog/2015/11/10/value1/"/>
+    <title type="html"><![CDATA[Value One]]></title>
+    <link href="http://philippetring.fr/blog/2015/11/10/value-one/"/>
     <updated>2015-11-10T11:38:41+01:00</updated>
-    <id>http://philippetring.fr/blog/2015/11/10/value1</id>
+    <id>http://philippetring.fr/blog/2015/11/10/value-one</id>
     <content type="html"><![CDATA[<p><img class="center" src="http://philippetring.fr/images/value-relationship.jpg"></p>
 
 <p>This article is a part of my 30 days challenge &ldquo;One Problem A Day&rdquo;. Where I have to solve a problem I have through my day. Today: <strong> Values one: Why do I breath? </strong></p>
