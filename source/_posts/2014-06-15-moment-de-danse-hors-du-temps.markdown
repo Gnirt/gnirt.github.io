@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Moment de danse hors du temps"
-date: 2014-06-15 15:46:57 +0200 Jun
+date: 2014-06-15 15:46:57 +0200
 comments: true
-categories: 
+categories:
 - Life
 - Vie
 ---
