@@ -7,6 +7,7 @@ single: true
 <article class="hentry" role="article">
   {% include article.html %}
   <footer>
+    {% include custom/newsletter.html %}
     <p class="meta">
       {% include post/author.html %}
       {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
@@ -15,7 +16,6 @@ single: true
     {% unless page.sharing == false %}
       {% include post/sharing.html %}
     {% endunless %}
-    {% include custom/newsletter.html %}
     <p class="meta">
       {% if page.previous.url %}
         <a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
