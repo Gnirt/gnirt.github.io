@@ -1,20 +1,20 @@
 ---
 layout: page
 title: "What I’m Doing Now"
-date: 2015-12-30 11:50
+date: 2016-01-08 11:50
 comments: true
 sharing: true
 footer: true
 ---
 
-Currently living in Paris, preparing for a not so little cycling on earth after I graduate
+Currently living in Paris, preparing for a not so little cycling on earth after I graduate from school
 
 # Things I'm quitting
 
 1. Porn
 2. Video game
 
-# Those are what I'm up to these days
+# Those are what I'm focusing on
 
 1. Eating healthy, eat junk food maximum once a week and drinking a lot of water
 2. Train for martial arts at least twice a week and morning work out (40 push ups and 2 minutes stretching)
