@@ -48,6 +48,7 @@ These are just a few of the things, in no particular order, that I hope to cross
 37. Own an Island with my closest and build a community (Our own little world !)
 38. Contribute to an open source project (Style fix doesn't count)
 39. <del>Hitchike for a vacation</del> <em style='color:#ea5707'>Completed see [Comment voyager 1 mois pour 150 euros](/blog/2015/05/07/comment-voyager-1-mois-en-espagne-pour-150-euros/).</em>
+40. Take the time to admire the star on a REAL night (no artifical light polluting the view)
 
 Have you find joy in your life ?
 Has my life brought joy to others  ?

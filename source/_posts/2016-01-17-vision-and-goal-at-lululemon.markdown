@@ -21,7 +21,7 @@ Basically, you get to hangout with a lot of people who want to be a better versi
 - List all the things you want and the things you don’t want in your life.
 - Visualize a day in 10 years from now with a guided meditation (which i really liked)
 - Set career, health and personal goal
-- Set goal in 10, 5 and 1 year from now
+- Set goals in 10, 5 and 1 year from now
 
 So the first part vision is to make you visualize what you want while the second part are the triggers of your imagination !
 
