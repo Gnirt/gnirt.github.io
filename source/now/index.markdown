@@ -7,19 +7,17 @@ sharing: true
 footer: true
 ---
 
-Currently living in Paris, preparing for a not so little cycling on earth after I graduate from school
+This is here to remind me of what's important
 
 # Things I'm quitting
 
-1. Porn
+1. Porn addiction
+2. Food addiction
 
-# Those are what I'm focusing on
+# Things I'm adding
 
-1. Eating healthy, no soda no refined sugar. Plain simple !
-2. Train for martial arts at least twice a week and morning work out (40 push ups and 2 attempt of handstand)
-3. Being a good friend and family member, being there for them and ready to listen
-4. Writing, simply 5 minutes a day
+1. Gratitude in every moment. (It's fucking hard.)
 
 Page inspired by [Derek Sivers](http://nownownow.com/about)
 
-Last update: 8 march 2016
+Last update: 1 september 2016
