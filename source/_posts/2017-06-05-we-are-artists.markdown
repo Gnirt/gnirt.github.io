@@ -27,4 +27,4 @@ We are artists, we develop, grow, learn and flourish. We have something unique (
 
 ~~~
 
-Picture was taken in Fontainebleau during a Movnat session hold by [Mouvement Naturel Paris](mouvement-naturel-paris.com). Not sure if I'm being artistic there, but definitely I'm a monkey 😂
+Picture was taken in Fontainebleau during a Movnat session hold by [Mouvement Naturel Paris](http://www.mouvement-naturel-paris.com/). Not sure if I'm being artistic there, but definitely I'm a monkey 😂
