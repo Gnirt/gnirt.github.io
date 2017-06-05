@@ -7,6 +7,11 @@
 <meta property="twitter:creator" content="{% if page.twitter_card.creator %}{{ page.twitter_card.creator }}{% else %}{{ site.twitter_user }}{% endif %}" />
 {% if page.twitter_card.image %}<meta property="twitter:image:src" content="{{ page.twitter_card.image }}" />{% endif %}
 {% endif %}
+<meta property="og:title" value="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+<meta property="og:description" value="{{ description | strip_html | condense_spaces | truncate:150 }}" />
+<meta property="og:url" value="{{ site.url }}{{ page.url }}" />
+<meta property="og:type" content="website" />
+{% if page.cover %}<meta property="og:image" value="{{ site.url }}{{ page.cover }}" />{% endif %}
 <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -35,4 +40,3 @@ jQuery(".fancybox").fancybox();
 
 <!-- Font awesome -->
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<script src='https://showroom.plezi.co/scripts/ossleads_analytics.js?tenant=5536ba1f3730340006000000'></script>
