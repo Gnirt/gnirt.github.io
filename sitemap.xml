@@ -284,46 +284,50 @@
     </url>
     <url>
         <loc>http://philippetring.fr/blog/2017/06/05/we-are-artists/</loc>
-        <lastmod>2017-06-05T06:58:54+02:00</lastmod>
+        <lastmod>2017-08-25T00:01:00+02:00</lastmod>
     </url>
     <url>
-        <loc>http://philippetring.fr/a-propos/</loc>
-        <lastmod>2015-05-19T08:55:13+02:00</lastmod>
+        <loc>http://philippetring.fr/</loc>
+        <lastmod>2017-08-25T00:01:00+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://philippetring.fr/talks/</loc>
+        <lastmod>2018-10-01T04:34:01+02:00</lastmod>
     </url>
     <url>
         <loc>http://philippetring.fr/about/</loc>
         <lastmod>2015-11-26T16:40:39+01:00</lastmod>
     </url>
     <url>
-        <loc>http://philippetring.fr/atom_search.xml</loc>
-        <lastmod>2015-05-05T17:48:21+02:00</lastmod>
-    </url>
-    <url>
         <loc>http://philippetring.fr/blog/archives/</loc>
-        <lastmod>2017-06-05T06:58:54+02:00</lastmod>
+        <lastmod>2017-08-25T00:01:00+02:00</lastmod>
     </url>
     <url>
-        <loc>http://philippetring.fr/</loc>
-        <lastmod>2017-06-05T06:58:54+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://philippetring.fr/life-list/</loc>
-        <lastmod>2016-02-20T19:14:15+01:00</lastmod>
+        <loc>http://philippetring.fr/a-propos/</loc>
+        <lastmod>2015-05-19T08:55:13+02:00</lastmod>
     </url>
     <url>
         <loc>http://philippetring.fr/now/</loc>
-        <lastmod>2016-09-02T00:36:50+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://philippetring.fr/robots.txt</loc>
-        <lastmod>2015-05-05T17:48:22+02:00</lastmod>
+        <lastmod>2018-10-01T03:31:49+02:00</lastmod>
     </url>
     <url>
         <loc>http://philippetring.fr/search.html</loc>
         <lastmod>2015-05-05T17:48:22+02:00</lastmod>
     </url>
     <url>
+        <loc>http://philippetring.fr/robots.txt</loc>
+        <lastmod>2015-05-05T17:48:22+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://philippetring.fr/atom_search.xml</loc>
+        <lastmod>2015-05-05T17:48:21+02:00</lastmod>
+    </url>
+    <url>
         <loc>http://philippetring.fr/travel/</loc>
         <lastmod>2015-05-05T17:48:22+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://philippetring.fr/life-list/</loc>
+        <lastmod>2016-02-20T19:14:15+01:00</lastmod>
     </url>
 </urlset>
