@@ -7,17 +7,17 @@ sharing: true
 footer: true
 ---
 
-This is here to remind me of what's important
+This is here to remind me of my current focus
 
 # Things I'm quitting
 
 1. Porn addiction
-2. Food addiction
 
 # Things I'm adding
 
-1. Gratitude in every moment. (It's fucking hard.)
+1. Learning how to grow a startup ([Plezi](https://www.welcometothejungle.co/companies/plezi), join us it is fun !)
+2. Learning Arab
 
 Page inspired by [Derek Sivers](http://nownownow.com/about)
 
-Last update: 1 september 2016
+Last update: 1 october 2018
